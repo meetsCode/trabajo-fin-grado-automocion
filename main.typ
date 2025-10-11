@@ -29,7 +29,7 @@
 #show link: underline // https://typst.app/docs/reference/model/link/
 
 
-#align(center, text(17pt)[
+#align(center + horizon, text(17pt)[
   *#título*
 ])
 
@@ -38,28 +38,30 @@
   columns: (1fr, 1fr, 1fr),
   align(center)[
     Enrique \
-    #link("mailto:oe@as.du")
+    #link("mailto:oe@as.du")\
     
-    Francisco\
-    #link("mailto:sasp@gmail.com")
+    Juan Antonio \
+    #link("mailto:oe@as.du") \
+  ],
+  align(center)[
+     Francisco\
+    #link("mailto:sasp@gmail.com")\
+    
+     Luis Sánchez Peña\
+    #link("mailto:sanchezlsp@gmail.com")\
+  
   ],
   align(center)[
     Gabriel Apellidos\
-    #link("mailto:sasp@gmail.com")
+    #link("mailto:sasp@gmail.com") \
    
-    Juan Antonio \
-    #link("mailto:oe@as.du")
-  ],
-  align(center)[
-    Luis Sánchez Peña\
-    #link("mailto:sanchezlsp@gmail.com")
-    
     Oleg \
     #link("mailto:oe@as.u")
   ]
 )
 
-
+ \
+ \
 #align(center)[
   #set par(justify: false)
   *Abstract* \
