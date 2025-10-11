@@ -1,0 +1,32 @@
+# los comentarios en yaml empiezan con almoadillas.
+# solo hay comentario de una línea. PUeden comenzar en cualqueir posición 
+# de la línea. Por eso los Tags no pueden ir con #GT3
+
+#// la bibliografía usa el formato que aconseja typst.app
+#// https://typst.app/docs/tutorial/writing-in-typst#bibliography
+#// El formato es Hayagriva 
+#// https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+#// citing things with reference syntax (@key) or explicit calls to the citation function (#cite(<key>)). 
+#// más info en https://typst.app/docs/reference/model/bibliography/
+#bibliography("bibliografia.yml")
+
+
+harry:
+    type: Book
+    title: Harry Potter and the Order of the Phoenix
+    author: Rowling, J. K.
+    volume: 5
+    page-total: 768
+    date: 2003-06-21
+
+
+guia-definitiva-para-carreras-gt:
+  type: video
+  url: 
+    value: https://youtu.be/UxwZmHkpsUg
+    date: 2021-12-10 
+  title: Guía definitiva para las carreras de GT
+  author: Triple Crown Racing
+  tags: #GT3 #GT4 #GTE
+  abstract: Las carreras de GT para un aficionado a los deportivos y las carreras de resistencia pueden ser bastante confusas. ¿Cuál es la diferencia entre GT3 y GT4, por ejemplo? ¿Y qué son GTE y GTLM? ¿Qué es GT1? Parece que hay un sinfín de categorías, con Audis, McLaren, Porsches y Ferraris, y es mucho para comprender. Así que aquí tienes la guía definitiva del mundo de las carreras de GT.
+  location: UK
