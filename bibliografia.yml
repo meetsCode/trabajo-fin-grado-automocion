@@ -57,6 +57,35 @@ como-construir-un-GT3:
 # * https://youtu.be/UxwZmHkpsUg
 
 # https://www.fia.com
-European-Master-Series:
+
+European-Master-Series-reglamento:
   type: web
   url: https://www.europeanseries.com/wp-content/uploads/2025/03/REGLAMENTO-Espanol-EMS-GT3-Challenge.pdf
+
+gt-world-challenge-europe:
+  type: web
+  url: https://es.wikipedia.org/wiki/GT_World_Challenge_Europe
+
+web-carreras-exclusivas-porche:
+  type: web
+  url: https://racing.porsche.com/series/gt-sport
+  
+web-oficial-porche911:
+  type: web
+  url: https://www.porsche.com/spain/models/911/911-gt3-models/911-gt3/
+
+web-typst-app:
+  type: web
+  url: https://typst.app/
+
+info-hayagriva:
+  type: web
+  url: https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+info-typst-biblio:
+  type: web
+  url: https://typst.app/docs/tutorial/writing-in-typst#bibliography
+
+info-typst-func-biblio:
+  type: web
+  url: https://typst.app/docs/reference/model/bibliography/

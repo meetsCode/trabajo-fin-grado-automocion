@@ -40,11 +40,11 @@
     Enrique \
     #link("mailto:oe@as.du")\
     
-    Juan Antonio \
-    #link("mailto:oe@as.du") \
+    Juan Antonio Morcillo García\
+    #link("mailto:j.a.m.g.katt@gmail.com") \
   ],
   align(center)[
-     Francisco\
+     Francisco \
     #link("mailto:sasp@gmail.com")\
     
      Luis Sánchez Peña\
