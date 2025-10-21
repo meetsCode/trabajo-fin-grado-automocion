@@ -59,7 +59,6 @@ Actualmente Mclaren corre con este vehículo en la GT3 bajo el nombre de "Mclare
 Anteriormente se llamaba Mclaren 720s GT3, pero al pasar los años el fabricando realizo modificaciones aereodinamicas, suspensión, frenos, chasis, y también debido a que la normativa de la FIA al pasar los años cambia, paso a tener en su nombre "EVO" esto debido a los cambios que se le han realizado para seguir con el reglamento.
 
 === Ford Mustang Dark Horse (2023)
-
 *Motor*: V8 5.0 Litros Atmosférico\
 *Potencia*: 500 cv\
 *Aceleración 0-100*: 4.1 s\
@@ -94,20 +93,14 @@ Su sistema de propulsión combina un motor V6 biturbo de con un motor eléctrico
 El equipo de maranello corre en la GT3 con este vehículo, y en el WEC corre en dos categorías, en Hypercar con el Ferrari 499P, y en la categoría LMGT3 (que son los GT3 pero re-homólogados para correr en las carreras del WEC) con el Ferrari 296 GT3 EVO, bajo el nombre de Ferrari AF Corse.
 
 === Lamborghini Huracan EVO (2019)
-Motor: V10 5.2 Litros Atmosférico (DOHC, 40 válvulas)\
-*
-Potencia: 640 cv\
-*
-Aceleración 0-100: 2.9 s\
-*
-Peso: 1422 kg\
-*
-Velocidad máxima: 325 km/h\
-*
-Tracción: Total (AWD) o Trasera (RWD)\
-*
-Transmisión: Automática de doble embrague (LDF) de 7 velocidades\
-*
+*Motor*: V10 5.2 Litros Atmosférico (DOHC, 40 válvulas)\
+*Potencia*: 640 cv\
+*Aceleración 0-100*: 2.9 s\
+*Peso*: 1422 kg\
+*Velocidad máxima*: 325 km/h\
+*Tracción*: Total (AWD) o Trasera (RWD)\
+*Transmisión*: Automática de doble embrague (LDF) de 7 velocidades\
+
 
 Se presento en el 2019 como una evolución en cuanto a tecnología, aereodinamica y rendimiento en comparación del Lamborghini Huracán original lanzado en el 2015, integrando toda la experiencia de la marca del mundo de la competición y versiones especiales del vehículo.
 

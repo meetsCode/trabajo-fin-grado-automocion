@@ -16,7 +16,8 @@ Por localización encontramos campeonatos más o menos locales como el Sprint Ch
 u otros más generales como el campeonato para Asia, el _51gt3_ @oficial-51gt3 o como el ya mencionado como el _GT World Challenge Europe_.\
 
 *Copas monomarca (Monomarca):*
-- _Porsche Carrera Cup_ / _Porsche GT3 Cup Challenge_: Se compite con el Porsche 911 GT3 Cup. .
+- _Porsche Carrera Cup_ / _Porsche GT3 Cup Challenge_: Se compite con el Porsche 911 GT3 Cup.\
+- _Sprint Challenge Iberica_ @competicion-porsche-iberica.
 
 *Categorías de competición GT3:* (multimarca)
 - GT World Challenge Europe @oficial-world-challenge-europe @wikipedia-world-challenge-europe
