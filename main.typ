@@ -65,7 +65,8 @@
 #align(center)[
   #set par(justify: false)
   *Abstract* \
-  #lorem(80)
+  //#lorem(80)
+  Este trabajo fin de grado nos ha permitido simular la creación de un equipo de competición para GT3 desde cero. Hemos tratado temas técnicos, logísticos y económicos del proyecto. Las conclusiones son que es posible crear de cero tal proyecto pero con un coste de 1.000.000€ y con un tiempo entre la creación del equipo y la primera carrera de 1 año.
 ]
 
 #pagebreak()

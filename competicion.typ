@@ -21,9 +21,9 @@ u otros más generales como el campeonato para Asia, el _51gt3_ @oficial-51gt3 o
 
 *Categorías de competición GT3:* (multimarca)
 - GT World Challenge Europe @oficial-world-challenge-europe @wikipedia-world-challenge-europe
-- Blancpain Endurance Series 
-- Spa (carrera de 24 horas)
-- Nürburgring (carrera de 24 horas)
+- Blancpain Endurance Series @wiki-blancpaint
+- Spa (carrera de 24 horas) @oficial-24h-spa @wiki-24h-spa
+- Nürburgring (carrera de 24 horas) @oficial-24h-nurburgring @wiki-24h-nurburgring
 
 == Elegida
 Tras estudiar las distintas competiciones hemos elegido la "Sprint Challenge Iberica" @competicion-porsche-iberica.

@@ -113,12 +113,33 @@ oficial-world-challenge-europe:
   type: web
   url: https://www.gt-world-challenge-europe.com
 
-  
 wikipedia-world-challenge-europe:
   type: web
   url: https://es.wikipedia.org/wiki/GT_World_Challenge_Europe
 
+wiki-blancpaint:
+  type: web
+  url: https://en.wikipedia.org/wiki/2012_Blancpain_Endurance_Series
+
+
+oficial-24h-spa:
+  type: web
+  url: https://www.sro-motorsports.com
   
+wiki-24h-spa:
+  type: web
+  url: https://en-wikipedia-org.translate.goog/wiki/Spa_24_Hours?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge
+
+oficial-24h-nurburgring:
+  type: web
+  url: https://www.24h-rennen.de/en/home/
+
+wiki-24h-nurburgring:
+  type: web
+  url: https://es.wikipedia.org/wiki/24_Horas_de_Nürburgring
+
+
+
 
 # pendientes de ver:
 # Cómo modificar un coche de carreras MartiniWorks https://youtu.be/vB4zswJx2WI
