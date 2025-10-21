@@ -16,9 +16,9 @@ Soy nuevo en las carreras de GT y quiero saber de qué se tratan. He oído habla
 
 - GT significa gran turismo o gran turismo, lo que simplemente significa que tienes un coche deportivo de lujo convertido en un coche de carreras. Si es touring sin el grand, es un sedán aburrido convertido en un coche de carreras.
 - GT1: muerto hace mucho tiempo, desde 2011 creo. Tenía muchos coches rápidos y geniales, pero se volvió muy caro. Básicamente reemplazado por GTE. También solía haber OTRO GT1 antes, las carreras de GT son una sopa de letras y todo se renombra constantemente, lo siento.
-- Antiguo GT2: también muerto hace mucho tiempo, se convirtió en GTE/GTLM. Confusamente, ahora hay otro GT2 que no tiene nada que ver.
-- Nuevo GT2: nada que ver con el antiguo GT2, una clase para pilotos gentleman y coches que son en su mayoría especiales para días de pista con más potencia pero menos carga aerodinámica que los GT3. 
-- GTE/GTLM: 2023 fue el último año para GTE, que era ligeramente más rápido que GT3 y más caro. IMSA lo llamó GTLM, pero eran básicamente lo mismo. Básicamente, cualquier serie que tuviera GTE simplemente lo reemplazó con GT3.
+- Antiguo GT2: también muerto hace mucho tiempo, se convirtió en GE/GTA. Confusamente, ahora hay otro GT2 que no tiene nada que ver.
+- Nuevo GT2: nada que ver con el antiguo GT2, una clase para pilotos alemanamente y coches que son en su mayoría especiales para días de pista con más potencia pero menos carga aerodinámica que los GT3. 
+- GE/GTA: 2023 fue el último año para GE, que era ligeramente más rápido que GT3 y más caro. IMSA lo llamó GTLM, pero eran básicamente lo mismo. Básicamente, cualquier serie que tuviera GTE simplemente lo reemplazó con GT3.
 - GT3: la principal categoría de alto nivel ahora, en casi todas las series principales del mundo.
 - GT4: la principal categoría de nivel de entrada GT ahora, más lenta y más barata que los GT3.
 -  Super GT: serie solo para Japón dividida en GT500 (GT súper rápidos y locos) y GT300 (coches GT3 y GT japoneses locales de velocidad equivalente).
@@ -49,3 +49,4 @@ E
 #link("https://youtu.be/UxwZmHkpsUg")[Guía definitiva para las carreras de GT] ch:Triple Crown Racing
 
 #link("https://youtu.be/UQaKFs8pq_I")[Beginners Guide to EVERY 2025 GT3 Car in WEC, IMSA, and IGTC] ch:Formula Jonah
+Nota: Como tal el ejemplo del coche que usaron esta bien pero no usaron el GT3 base, Porsche para correr en la GT3 usaron la variante GT3 RS de calle 

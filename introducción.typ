@@ -34,14 +34,14 @@ Los costes, como veremos durante este trabajo, no son bajos pero son asumibles p
 
 == GT3
 GT3 es una competición que pertenece al grupo histórico de GT (gran turismo). Nace de la idea de permitir correr a personas amateurs en circuitos profesionales con su propio vehículo particular. Los coches deben ser vehículos comercializados producidos en serie. Se exige que la marca fabrique un mínimo de 400 vehículos para poder participar en las carreras.\
-Así un vehículo GT3 es un coche deportivo de altas prestaciones, diseñado para el uso en circuito pero homologado para la calle. Un ejemplo es el Porsche 911 GT3. Estos vehículos se caracterizan por un motor de alto rendimiento, a menudo atmosférico, un diseño enfocado en la aerodinámica y la ligereza, y una experiencia de conducción más purista y conectada\
+Así un vehículo GT3 es un coche deportivo de altas prestaciones, diseñado para el uso en circuito pero homologado para la calle. Un ejemplo es el Porsche 911 GT3. Estos vehículos se caracterizan por un motor de alto rendimiento, a menudo atmosférico, un diseño enfocado en la aerodinámica y la ligereza, y una experiencia de conducción más purista y conectada.\
 #align(center)[
   #image("documentos-fuente/Captura de pantalla 2025-10-11 a las 22.29.00.png", width: 60%)
   Captura de la web oficial de Porsche. Por sólo 240k€ puedes correr como un profesional. @web-oficial-porche911 
 ]
 Así, a diferencia de otros campeonatos, los coches que corren pueden ser adquiridos en cualquier concesionario y aunque el precio es alto no es inaccesible, como sí sucede en otro tipos de carreras.\
 Los vehículos en GT (Gran Turismo) pueden tener modificaciones pero en función de la competición (GT1, GT2, GT3, GT4 o GTE) se permiten más o menos de estas modificaciones al vehículo de serie. En nuestro caso -el de GT3- las modificaciones son mínimas y afectan sobre todo al aumento de la seguridad del vehículo (ej: barras para el vuelco) y al control de los valores del vehículo en carrera.
-Las características de los vehículos y sus modificaciones son especificados por la FIA.
+Las características de los vehículos y sus modificaciones son especificados por la FIA @fia-oficial.
 
 Las competiciones GT3 son de muy distinto tipo y reglas y todas tienen en común:
 - Los vehículos son GT.
@@ -57,4 +57,4 @@ La mayoría de los corredores en GT3 son particulares y amateur aunque también 
 
 === Críticas.
 La competición GT3 se ha ido profesionalizando cada vez más en los últimos años, esto ha expulsado a muchos de los participantes aficionados que se ven sin posibilidad de acceder al podio.\
-Por otra parte los vehículos admiten relativamente pocas modificaciones, a diferencia de GT4. Esto hace que parte de la diversión que consiste en exagerar algunas de las características del vehículo como pueden ser alerones o tubos de escape, se pierdan.
+Por otra parte los vehículos admiten relativamente pocas modificaciones, a diferencia de GT4. Esto hace que parte de la diversión que consiste en exagerar algunas de las características del vehículo como pueden ser alerones o tubos de escape.

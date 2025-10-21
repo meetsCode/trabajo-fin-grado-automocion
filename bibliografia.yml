@@ -19,7 +19,6 @@ harry:
     page-total: 768
     date: 2003-06-21
 
-
 guia-definitiva-para-carreras-gt:
   type: video
   url: 
@@ -56,7 +55,9 @@ como-construir-un-GT3:
 # * https://youtu.be/UQaKFs8pq_I
 # * https://youtu.be/UxwZmHkpsUg
 
-# https://www.fia.com
+fia-oficial:
+  type: web
+  url: https://www.fia.com
 
 European-Master-Series-reglamento:
   type: web
@@ -89,3 +90,37 @@ info-typst-biblio:
 info-typst-func-biblio:
   type: web
   url: https://typst.app/docs/reference/model/bibliography/
+
+AI-creadora-diagramas:
+  type: video
+  url:
+    value: https://youtu.be/2pE2-hEqmN4
+    date: 2025-10-13
+  title: AI Tools for Scientific Diagrams | Make Publication-Ready Figures Fast
+  author: WiseUp Communications
+  abstract: researchwriting researchpaper researchtips Learn the top 2 AI tools for creating scientific diagrams. These 2 AI tools can help you create professional quality scientific illustrations, graphical abstracts, images, infographics, UML diagrams, posters, figures, P&IDs, flowcharts all within seconds. They are also affordable so you can use them easily. 
+  
+competicion-porsche-iberica:
+  type: web
+  url: https://porschesprintchallengeiberica.com
+  
+oficial-51gt3:
+  type: web
+  url: https://51gt3.com/es
+  abstract: sitio web de automovilismo Nº 1 en Asia Pacífico, donde puedes comprar y vender automóviles de carreras usados, consultar la velocidad de vuelta y los resultados de las carreras de los corredores, obtener datos detallados sobre equipos de carreras y eventos. Todo sobre las carreras está en 51GT3
+
+oficial-world-challenge-europe:
+  type: web
+  url: https://www.gt-world-challenge-europe.com
+
+  
+wikipedia-world-challenge-europe:
+  type: web
+  url: https://es.wikipedia.org/wiki/GT_World_Challenge_Europe
+
+  
+
+# pendientes de ver:
+# Cómo modificar un coche de carreras MartiniWorks https://youtu.be/vB4zswJx2WI
+# Por qué las suspensiones duras no hacen a tu coche más rápido [Dinámica Vehicular 101] ch:PowerArt Guille García Alfonsín    Te explico cómo calcular la dureza ideal de los muelles de un coche según su frecuencia natural —y por qué más duro no siempre significa mejor. Descubre el límite real entre confort https://youtu.be/1rRU16OsGrU
+# 

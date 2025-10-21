@@ -37,23 +37,23 @@
 #grid(
   columns: (1fr, 1fr, 1fr),
   align(center)[
-    Enrique \
-    #link("mailto:oe@as.du")\
+    Enrique Ros Birruezo \
+    #link("mailto:enriqueros92@gmail.com")\
     
     Juan Antonio Morcillo García\
     #link("mailto:j.a.m.g.katt@gmail.com") \
   ],
   align(center)[
-     Francisco \
-    #link("mailto:sasp@gmail.com")\
+     Francisco Murcia \ 
+    #link("mailto:franmurciap242@gmail.com")\
     
      Luis Sánchez Peña\
     #link("mailto:sanchezlsp@gmail.com")\
   
   ],
   align(center)[
-    Gabriel Apellidos\
-    #link("mailto:sasp@gmail.com") \
+    Gabriel Santana\
+    #link("mailto:gabrieljrsantana48@gmail.com") \
    
     Oleg \
     #link("mailto:oe@as.u")
@@ -74,7 +74,13 @@
 
 #pagebreak()
 
-#include "fuentes.typ"
+#include "modelos.typ"
+
+#pagebreak()
+
+#include "competicion.typ"
+
+//#include "fuentes.typ"
 
 
 
@@ -84,4 +90,5 @@
 // https://github.com/typst/hayagriva/blob/main/docs/file-format.md
 // citing things with reference syntax (@key) or explicit calls to the citation function (#cite(<key>)). 
 // más info en https://typst.app/docs/reference/model/bibliography/
-#bibliography("bibliografia.yml")
+
+#bibliography("bibliografia.yml") 
