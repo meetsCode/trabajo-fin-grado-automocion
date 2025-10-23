@@ -92,4 +92,6 @@
 // citing things with reference syntax (@key) or explicit calls to the citation function (#cite(<key>)). 
 // más info en https://typst.app/docs/reference/model/bibliography/
 
+#pagebreak()
+
 #bibliography("bibliografia.yml") 

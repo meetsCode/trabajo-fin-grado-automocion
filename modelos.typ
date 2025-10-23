@@ -110,39 +110,39 @@ Uno de los mayores avances del EVO es su sistema de control dinámico inteligent
 
 El vehiculo cuenta con modos de conducción llamados, Strada, Sport y corsa, estos modos permiten adaptar las características del coche de acuerdo al modo que se seleccione.
 
-En la competición Lamborghini corre tanto en la GT3 como en el WEC, con su Lamborghini SC63 en la categoria Hypercar, y en la GT3 con el Lamborghini Huracan GT3 EVO. 
+En la competición Lamborghini corre tanto en la GT3 como en el WEC, con su Lamborghini SC63 en la categoría Hypercar, y en la GT3 con el Lamborghini Huracan GT3 EVO. 
 
 === Lexus RC F (2022)
-Motor: V8 5.0 Litros Atmosférico 
-Potencia: 477 cv
-Aceleración 0-100: 4.3 s
-Peso: 1765 kg
-Velocidad máxima: 270 km/h (limitada)
-Tracción: Trasera (RWD)
-Transmisión: Automática de 8 velocidades SDS (Sports Direct Shift)
+*Motor*: V8 5.0 Litros Atmosférico \
+*Potencia*: 477 cv \
+*Aceleración 0-100*: 4.3 s \
+*Peso*: 1765 kg \
+*Velocidad máxima*: 270 km/h (limitada) \
+*Tracción*: Trasera (RWD) \
+*Transmisión*: Automática de 8 velocidades SDS (Sports Direct Shift) \
 
 El Lexus RC F es el principal representante de la la división F Performance de Lexus, la linea de modelos de alto rendimiento basada en la experiencia en el mundo de la competición de la marca japonesa. 
 
-Su primera aparición frente al público fue en el 2014 y actualmente se sigue fanricando este modelo con algunas mejoras adicionales 
+Su primera aparición frente al público fue en el 2014 y actualmente se sigue fabricando este modelo con algunas mejoras adicionales 
 
-Su caja de cambios Sport Direct Shift de 8 velocidades utiliza embragues multidisco y un sistema que la marca implemento en el vehiculo que ajusta los cambios según la aceleración lateral, el frenado y la posición del acelerador. En modo Manual, permite un control total mediante levas ubicadas en el volante, con cambios de marcha casi instantáneos.
+Su caja de cambios Sport Direct Shift de 8 velocidades utiliza embragues multidisco y un sistema que la marca implemento en el vehículo que ajusta los cambios según la aceleración lateral, el frenado y la posición del acelerador. En modo Manual, permite un control total mediante levas ubicadas en el volante, con cambios de marcha casi instantáneos.
 
 El chasis del Lexus RC F se desarrollo en el circuito de Fuji International Speedway en Japón, y en el circuito Nürburgring en Alemania utilizando una estructura combinada de acero de alta resistencia, aluminio y fibra de carbono (en versiones Carbon Package). La suspensión es de doble horquilla en en el eje delantero y multibrazo en el eje trasero, ajustada de tal manera que se busca equilibrar confort y precisión.
 
-En el año 2020 La marca japonesa presento el Lexus RC F Track Edition, una version mas ligera y enfocada a pista a diferencia del RC F estandar, con componentes de fibra de carbono, frenos brembo, suspensión mejorada, y aerodinámica derivada de su version de competición el Lexus RC F GT3 el vehiculo que representa a Lexus en las carreras y campeonatos internacionales. 
+En el año 2020 La marca japonesa presento el Lexus RC F Track Edition, una versión mas ligera y enfocada a pista a diferencia del RC F estándar, con componentes de fibra de carbono, frenos brembo, suspensión mejorada, y aerodinámica derivada de su versión de competición el Lexus RC F GT3 el vehiculo que representa a Lexus en las carreras y campeonatos internacionales. 
 
-Como curiosidad respecto a la marca, Toyota no corre directamente en la categoría GT3, sin embargo, Toyota anteriormente años atras presento un concepto GT3 del Toyota GR supra A90, llamada "Toyota Supra GT3 Concept" fue un prototipo hecho por la marca que jamas vio la luz, por lo tanto Toyota y lexus al ser la misma marca llegaron a un acuerdo en el que toyota se centraria en vender coches economicos para el publico y Lexus se encargaria de gestionar, modelo de lujo, modelos deportivos de alto rendimiento e incluso ser un equipo de carreras oficial, por lo que se puede decir que Toyota corre bajo el nombre de Lexus como se ha hecho muchos años atras.
+Como curiosidad respecto a la marca, Toyota no corre directamente en la categoría GT3, sin embargo, Toyota anteriormente años atrás presento un concepto GT3 del Toyota GR supra A90, llamada "Toyota Supra GT3 Concept" fue un prototipo hecho por la marca que jamas vio la luz. La marca Toyota usa la marca lexus para gestionar y vender modelos de lujo, modelos deportivos de alto rendimiento e incluso ser un equipo de carreras oficial. Se puede decir que Toyota.
 
 Actualmente la marca corre en la categoria GT con el Lexus RC F GT3, y ademas de correr para esta categoria compite en otras como la Super GT desde el 2014. 
 
 === Aston martin V12 Vantage (2025)
-Motor: V8 4.0 Litros Twin-Turbo (AMG M177)
-Potencia: 665 cv (656 hp)
-Aceleración 0-100: 3.4 s
-Peso: 1620 kg
-Velocidad máxima: 325 km/h
-Tracción: Trasera (RWD)
-Transmisión: Automática ZF de 8 velocidades
+*Motor*: V8 4.0 Litros Twin-Turbo (AMG M177) \
+*Potencia*: 665 cv (656 hp) \
+*Aceleración 0-100*: 3.4 s \
+*Peso*: 1620 kg \
+*Velocidad máxima*: 325 km/h
+*Tracción*: Trasera (RWD) \
+*Transmisión*: Automática ZF de 8 velocidades \
 
 Este modelo es la nueva generación de la gama Vantage de Aston Martin, es un rediseño total respecto a su generación anterior, con más potencia, mas tecnología, y una estetica mucho mas musculosa sin perder la escencia que define un deportivo británico como lo es Aston Martin. 
 
@@ -153,28 +153,27 @@ La transmisión automática de 8 marchas, montada en posición trasera, ofrece c
 Actualmente la marca compite en la GT3 con este modelo en el equipo Aston martin racing team (AMR Team). 
 
 === BMW M4 G80 (2022)
-Motor: 6 cilindros en línea 3.0 Litros
-Potencia: 510 cv
-Aceleración 0-100: 3.9 s
-Peso: 1725 kg
-Velocidad máxima: 290 km/h 
-Tracción: Trasera (RWD) o Total (xDrive M AWD)
-Transmisión: Automática M Steptronic de 8 velocidades
+*Motor*: 6 cilindros en línea 3.0 Litros \
+*Potencia*: 510 cv \
+*Aceleración 0-100*: 3.9 s \
+*Peso*: 1725 kg \
+*Velocidad máxima*: 290 km/h  \
+*Tracción*: Trasera (RWD) o Total (xDrive M AWD) \
+*Transmisión*: Automática M Steptronic de 8 velocidades
 
 La potencia se entrega de manera progresiva y controlada gracias al sistema M TwinPower Turbo, mientras el sonido del escape variable M ofrece un carácter distintivo que va de un tono grave en modo Comfort a un rugido metálico en modo Sport Plus.
 
-El BMW M4 G80 combina ingeniería alemana de precisión con una experiencia de conducción visceral. Es un coupé que equilibra potencia, tecnología y emoción, manteniendo viva la esencia del linaje M: “Power, Precision & Performance.”
+El BMW M4 G80 combina ingeniería alemana de precisión con una experiencia de conducción visceral.
 
 Actualmente el M4 G80 corre para el equipo BMW Motorsport en campeonatos internacionales, como GT3 y hypercar.
 
 === Mercedes AMG GT Black Series (2020)
-Motor: V8 4.0 Litros Twin-Turbo 
-Potencia: 730 cv (720 h
-Aceleración 0-100: 3.2 s
-Peso: 1520 kg
-Velocidad máxima: 325 km/h
-Tracción: Trasera (RWD)
-Transmisión: Automática AMG Speedshift DCT de 7 velocidades
+*Motor*: V8 4.0 Litros Twin-Turbo  \
+*Potencia*: 730 cv (720 h \
+*Aceleración 0-100*: 3.2 s \
+*Peso*: 1520 kg \
+*Velocidad máxima*: 325 km/h \
+*Transmisión*: Automática AMG Speedshift DCT de 7 velocidades \
 
 Se presentado en 2020, representa el pináculo del rendimiento dentro de la gama AMG. Es el modelo más extremo, potente y enfocado a circuito que Mercedes-Benz ha fabricado con motor delantero. Su nombre “Black Series” identifica a los AMG más puristas, diseñados sin concesiones, donde la prioridad absoluta es la velocidad y la precisión.
 
@@ -184,20 +183,20 @@ Este modelo es derivado de la version de
 competición de la GT3. 
 
 === Audi R8 (2021) 
-Motor: V10 5.2 Litros FSI
-Potencia: 620 cv (612 hp)
-Aceleración 0-100 km/h: 3.1 s
-Peso: 1,595 kg
-Velocidad máxima: 331 km/h
-Tracción: Integral (quattro)
-Transmisión: Automática S tronic de 7 velocidades
+*Motor*: V10 5.2 Litros FSI \
+*Potencia*: 620 cv (612 hp) \
+*Aceleración 0-100 km/h*: 3.1 s \
+*Peso*: 1,595 kg \
+*Velocidad máxima*: 331 km/h \
+*Tracción*: Integral (quattro) \
+*Transmisión*: Automática S tronic de 7 velocidades \
 
 El Audi R8 V10 Performance, uno de los iconos de la marca de los cuatro aros, representa la combinación perfecta entre tecnología de competición y uso cotidiano. Este superdeportivo ofrece una experiencia de conducción refinada, con un enfoque en la precisión, estabilidad y rendimiento extremo, manteniendo la versatilidad para carretera abierta.
 
 Bajo el capó se encuentra el motor V10 atmosférico de 5.2 litros FSI, heredado directamente de la experiencia de Audi en la competición de GT y Le Mans. Este propulsor genera 620 caballos y 580 Nm de par que va hacia las cueatro ruedas ofreciendo una aceleración lineal y un sonido característico, rugiente y envolvente, que recuerda a los autos de pista de Audi.
 
 
-
+=== Otros.
 En el caso de que seamos un equipo OFICIAL, debemos seleccionar una marca y modelo sin repetir los modelos ya existentes que ya compiten en la GT3, es decir, no podemos ser de otro equipo y usar el mismo vehículo del equipo rival.
 // No entiendo este párrafo.!!!!
 // G: Pues que básicamente si nosotros 5 nos consideramos como equipo privado tenemos que usar ya modelos (coches) ya homologados por la FIA, en el caso de que nos consideremos como un equipo "oficial" ya para este caso es que entramos a la categoria como un equipo nuevo y un fabricante (fabricante que podemos elegir) y para este caso en el que seamos equipo oficial debemos usar modelos que son y pueden ser aprobados por la FIA. En pocas palabras estuve investigando y la fia no admite modelos antiguos porque su homologación ya ha expirado. si o si debemos usar modelos de producción actuales. Y tambien que no podemos repetir marca y modelo porque no tendria sentido ser de un equipo diferente y correr con un coche de la misma marca o modelo de otro equipo, por eso en la GT3 hay varios fabricantes.!!!, en resumen si nosotros entramos como equipo oficial podemos entrar a la GT3 con el coche que queramos pero este coche debe cumplir los requisitos para la homologación.

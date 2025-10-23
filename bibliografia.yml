@@ -99,10 +99,30 @@ AI-creadora-diagramas:
   title: AI Tools for Scientific Diagrams | Make Publication-Ready Figures Fast
   author: WiseUp Communications
   abstract: researchwriting researchpaper researchtips Learn the top 2 AI tools for creating scientific diagrams. These 2 AI tools can help you create professional quality scientific illustrations, graphical abstracts, images, infographics, UML diagrams, posters, figures, P&IDs, flowcharts all within seconds. They are also affordable so you can use them easily. 
-  
+   
 competicion-porsche-iberica:
   type: web
   url: https://porschesprintchallengeiberica.com
+  
+doc-reglamento-tecnico992-competicion-porsche-iberica:
+  type: reference
+  url: https://porschesprintchallengeiberica.com/wp-content/uploads/Porsche%20Sprint%20Challenge%20Iberica_Regulamento%20Tecnico%202025%20Modelo%20992_Versão_01_21.04.2025.pdf
+ 
+doc-reglamento-tecnico991-992-competicion-porsche-iberica:
+  type: reference
+  url: https://porschesprintchallengeiberica.com/wp-content/uploads/Porsche%20Sprint%20Cup%20Iberica_Reglamento%20Técnico%202025_Modelos%20991.1_991.2_V0_approved_RFEDA.pdf
+ 
+doc-reglamento2025-competicion-porsche-iberica:
+  type: reference
+  url: https://porschesprintchallengeiberica.com/wp-content/uploads/Reglamento_Deportivo_PSCI_2025_%20PT_ESP_approved_RFEDA.pdf
+   
+doc-reglamento-anexo2-competicion-porsche-iberica:
+  type: reference
+  url: https://porschesprintchallengeiberica.com/wp-content/uploads/Anexo%202%20-%20%20Penalizaciones_Penalizações_PSCI_2025_17.08.2025_appoved_RFEDA.pdf
+  
+doc-reglamento-anexo1-competicion-porsche-iberica:
+  type: reference
+  url: https://porschesprintchallengeiberica.com/wp-content/uploads/2025/04/Anexo-1-Publicidad-Obrigatoria_PSCI_2025_V0_approved_RFEDA.pdf
   
 oficial-51gt3:
   type: web
