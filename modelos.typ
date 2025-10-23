@@ -24,11 +24,11 @@ A continuación hay un listado de algunos modelos de fabrica disponibles que cum
 *Tracción*: Trasera\
 *Transmisión*: Automática PDK de 7 velocidades\
 
-El 911 GT3 RS (2022) Continuando con la tradición de porsche de crear vehiculos con ADN de carreras. El 911 GT3 RS de la generación 992, es un vehículo diseñado sin concesiones, donde cada superficie, cada abertura y cada perfil aerodinámico cumple una función orientada al rendimiento. Presentado en 2022, este modelo representa el equilibrio perfecto entre ingeniería de competición y precisión técnica, heredando directamente la tecnología del 911 GT3 R de carreras que corre actualmente en la cateogoria GT3.
+El 911 GT3 RS (2022) Continuando con la tradición de porsche de crear vehículos con ADN de carreras. El 911 GT3 RS de la generación 992, es un vehículo diseñado sin concesiones, donde cada superficie, cada abertura y cada perfil aerodinámico cumple una función orientada al rendimiento. Presentado en 2022, este modelo representa el equilibrio perfecto entre ingeniería de competición y precisión técnica, heredando directamente la tecnología del 911 GT3 R de carreras que corre actualmente en la categoría GT3.
 
 El corazón del GT3 RS es un motor Flat-Six atmosférico de 4.0 litros que alcanza las 9000 rpm, ofreciendo una entrega de potencia lineal y una respuesta instantánea, características propias de los motores naturalmente aspirados de Porsche. La transmisión PDK de 7 velocidades fue especialmente ajustada con relaciones más cortas que las del GT3 estándar, optimizando la aceleración y la conexión directa con el motor.
 
-Uno de sus aspectos más impresionantes es su aerodinámica activa. Por primera vez en un 911 de calle, integra un sistema DRS similar al de la Fórmula 1, que permite reducir la resistencia aerodinámica en rectas o generar un enorme apoyo en curvas ajustando el angulo de ataque del alerón trasero, toda la aerodinámica del 911 GT3 RS ha sido estudiada meticulosamente para maximizar el rendimiento del vehículo cuado se conduce en modo deportivo o se circula a velocidades normales.
+Uno de sus aspectos más impresionantes es su aerodinámica activa. Por primera vez en un 911 de calle, integra un sistema DRS similar al de la Fórmula 1, que permite reducir la resistencia aerodinámica en rectas o generar un enorme apoyo en curvas ajustando el angulo de ataque del alerón trasero, toda la aerodinámica del 911 GT3 RS ha sido estudiada meticulosamente para maximizar el rendimiento del vehículo tanto en modo deportivo o como cuando se circula a velocidades normales.
 
 Desde que se lanzo el primer 911 GT3 RS en el 2003 de la generación 996, Porsche ha usado esta plataforma como una base ya hecha para la creación de los modelos de competición hasta la actualidad en la GT3
 
@@ -54,9 +54,9 @@ En cuanto a diseño, el 720S rompe esquemas con una carrocería inspirada en la 
 
 El interior combina un diseño minimalista con materiales de alta calidad, enfocándose en la visibilidad y el control del conductor. El cuadro de instrumentos digital se pliega hacia abajo en modo “Track”, mostrando únicamente la información esencial para conducción deportiva.
 
-Actualmente Mclaren corre con este vehículo en la GT3 bajo el nombre de "Mclaren 720s GT3 EVO", ya que el fabricante uso esta plataforma del vehículo como una base para su versión de carreras y como reglama seguir se crearon mas de 300 unidades que es el minimo que pide la Federación Internacional de Automovilismo (FIA)
+Actualmente Mclaren corre con este vehículo en la GT3 bajo el nombre de "Mclaren 720s GT3 EVO", ya que el fabricante uso esta plataforma del vehículo como una base para su versión de carreras. Se crearon mas de 300 unidades que es el mínimo que pide la Federación Internacional de Automovilismo (FIA)
 
-Anteriormente se llamaba Mclaren 720s GT3, pero al pasar los años el fabricando realizo modificaciones aereodinamicas, suspensión, frenos, chasis, y también debido a que la normativa de la FIA al pasar los años cambia, paso a tener en su nombre "EVO" esto debido a los cambios que se le han realizado para seguir con el reglamento.
+Anteriormente se llamaba Mclaren 720s GT3, pero al pasar los años el fabricante realizo modificaciones aerodinámicas, suspensión, frenos, chasis, y también debido a que la normativa de la FIA al pasar los años cambia, paso a tener en su nombre "EVO" esto debido a los cambios que se le han realizado para seguir con el reglamento.
 
 === Ford Mustang Dark Horse (2023)
 *Motor*: V8 5.0 Litros Atmosférico\
@@ -90,7 +90,7 @@ El Ferrari 296 GTB, presentado en 2021, representa un cambio histórico en la fi
 
 Su sistema de propulsión combina un motor V6 biturbo de con un motor eléctrico axial ubicado entre el motor y la transmisión. Juntos desarrollan en conjunto un total 830 caballos de potencia total, con una respuesta inmediata y una entrega de par instantánea gracias al sistema MGU-K derivado de la Fórmula 1. El resultado es una aceleración brutal, sin pérdida de sensaciones, y una capacidad de rodar hasta 25 km en modo totalmente eléctrico (eDrive).
 
-El equipo de maranello corre en la GT3 con este vehículo, y en el WEC corre en dos categorías, en Hypercar con el Ferrari 499P, y en la categoría LMGT3 (que son los GT3 pero re-homólogados para correr en las carreras del WEC) con el Ferrari 296 GT3 EVO, bajo el nombre de Ferrari AF Corse.
+El equipo de Maranello corre en la GT3 con este vehículo, y en el WEC corre en dos categorías, en Hypercar con el Ferrari 499P, y en la categoría LMGT3 (que son los GT3 pero re-homologados para correr en las carreras del WEC) con el Ferrari 296 GT3 EVO, bajo el nombre de Ferrari AF Corse.
 
 === Lamborghini Huracan EVO (2019)
 *Motor*: V10 5.2 Litros Atmosférico (DOHC, 40 válvulas)\
@@ -102,13 +102,13 @@ El equipo de maranello corre en la GT3 con este vehículo, y en el WEC corre en 
 *Transmisión*: Automática de doble embrague (LDF) de 7 velocidades\
 
 
-Se presento en el 2019 como una evolución en cuanto a tecnología, aereodinamica y rendimiento en comparación del Lamborghini Huracán original lanzado en el 2015, integrando toda la experiencia de la marca del mundo de la competición y versiones especiales del vehículo.
+Se presento en el 2019 como una evolución en cuanto a tecnología, aerodinámica y rendimiento en comparación del Lamborghini Huracán original lanzado en el 2015, integrando toda la experiencia de la marca del mundo de la competición y versiones especiales del vehículo.
 
 Su motor V10 de 5,2 litros lo usa otro modelo del grupo volskwagen, como el Audi R8, aunque este motor para el Huracan EVO fue puesta a punto por Lamborghini para una entrega de mas potencia, aceleración y velocidad. 
 
 Uno de los mayores avances del EVO es su sistema de control dinámico inteligente, el LDVI (Lamborghini Dinamica Veicolo Integrata), una unidad central que analiza y predice las acciones del conductor en tiempo real. Este sistema coordina el funcionamiento del sistema de tracción total, la dirección trasera activa, la vectorización de par, la suspensión adaptativa y el ESP ofreciendo un comportamiento anticipativo y menos reactivo.
 
-El vehiculo cuenta con modos de conducción llamados, Strada, Sport y corsa, estos modos permiten adaptar las características del coche de acuerdo al modo que se seleccione.
+El vehículo cuenta con modos de conducción llamados, Strada, Sport y corsa, estos modos permiten adaptar las características del coche de acuerdo al modo que se seleccione.
 
 En la competición Lamborghini corre tanto en la GT3 como en el WEC, con su Lamborghini SC63 en la categoría Hypercar, y en la GT3 con el Lamborghini Huracan GT3 EVO. 
 
@@ -129,11 +129,11 @@ Su caja de cambios Sport Direct Shift de 8 velocidades utiliza embragues multidi
 
 El chasis del Lexus RC F se desarrollo en el circuito de Fuji International Speedway en Japón, y en el circuito Nürburgring en Alemania utilizando una estructura combinada de acero de alta resistencia, aluminio y fibra de carbono (en versiones Carbon Package). La suspensión es de doble horquilla en en el eje delantero y multibrazo en el eje trasero, ajustada de tal manera que se busca equilibrar confort y precisión.
 
-En el año 2020 La marca japonesa presento el Lexus RC F Track Edition, una versión mas ligera y enfocada a pista a diferencia del RC F estándar, con componentes de fibra de carbono, frenos brembo, suspensión mejorada, y aerodinámica derivada de su versión de competición el Lexus RC F GT3 el vehiculo que representa a Lexus en las carreras y campeonatos internacionales. 
+En el año 2020 La marca japonesa presento el Lexus RC F Track Edition, una versión mas ligera y enfocada a pista a diferencia del RC F estándar, con componentes de fibra de carbono, frenos brembo, suspensión mejorada, y aerodinámica derivada de su versión de competición el Lexus RC F GT3 el vehículo que representa a Lexus en las carreras y campeonatos internacionales. 
 
 Como curiosidad respecto a la marca, Toyota no corre directamente en la categoría GT3, sin embargo, Toyota anteriormente años atrás presento un concepto GT3 del Toyota GR supra A90, llamada "Toyota Supra GT3 Concept" fue un prototipo hecho por la marca que jamas vio la luz. La marca Toyota usa la marca lexus para gestionar y vender modelos de lujo, modelos deportivos de alto rendimiento e incluso ser un equipo de carreras oficial. Se puede decir que Toyota.
 
-Actualmente la marca corre en la categoria GT con el Lexus RC F GT3, y ademas de correr para esta categoria compite en otras como la Super GT desde el 2014. 
+Actualmente la marca corre en la categoria GT con el Lexus RC F GT3, y ademas de correr para esta categoría compite en otras como la Super GT desde el 2014. 
 
 === Aston martin V12 Vantage (2025)
 *Motor*: V8 4.0 Litros Twin-Turbo (AMG M177) \
@@ -144,9 +144,9 @@ Actualmente la marca corre en la categoria GT con el Lexus RC F GT3, y ademas de
 *Tracción*: Trasera (RWD) \
 *Transmisión*: Automática ZF de 8 velocidades \
 
-Este modelo es la nueva generación de la gama Vantage de Aston Martin, es un rediseño total respecto a su generación anterior, con más potencia, mas tecnología, y una estetica mucho mas musculosa sin perder la escencia que define un deportivo británico como lo es Aston Martin. 
+Este modelo es la nueva generación de la gama Vantage de Aston Martin, es un rediseño total respecto a su generación anterior, con más potencia, mas tecnología, y una estetica mucho mas musculosa sin perder la esencia que define un deportivo británico como lo es Aston Martin. 
 
-Su motor fue suministrado por AMG pero preparado por los ingenieros de la marca britanica, Gracias a un rediseño completo del sistema de admisión, nuevos turbos, y un sistema operativo propio, este motor alcanza los 665 caballos, convirtiéndose en el Vantage más potente de la marca.
+Su motor fue suministrado por AMG pero preparado por los ingenieros de la marca británica, Gracias a un rediseño completo del sistema de admisión, nuevos turbos, y un sistema operativo propio, este motor alcanza los 665 caballos, convirtiéndose en el Vantage más potente de la marca.
 
 La transmisión automática de 8 marchas, montada en posición trasera, ofrece cambios rápidos y precisos, mejorando la distribución de peso y la conexión entre motor y eje trasero. El sistema Launch Control y el diferencial electrónico trabajan en conjunto al control de tracción dinámico para ofrecer una adherencia en las ruedas más óptima y máxima aceleración en cualquier superficie.
 
@@ -161,7 +161,7 @@ Actualmente la marca compite en la GT3 con este modelo en el equipo Aston martin
 *Tracción*: Trasera (RWD) o Total (xDrive M AWD) \
 *Transmisión*: Automática M Steptronic de 8 velocidades
 
-La potencia se entrega de manera progresiva y controlada gracias al sistema M TwinPower Turbo, mientras el sonido del escape variable M ofrece un carácter distintivo que va de un tono grave en modo Comfort a un rugido metálico en modo Sport Plus.
+La potencia se entrega de manera progresiva y controlada gracias al sistema M TwinPower Turbo, mientras el sonido del escape variable M ofrece un carácter distintivo que va de un tono grave en modo _Comfort_ a un rugido metálico en modo Sport Plus.
 
 El BMW M4 G80 combina ingeniería alemana de precisión con una experiencia de conducción visceral.
 
@@ -193,7 +193,7 @@ competición de la GT3.
 
 El Audi R8 V10 Performance, uno de los iconos de la marca de los cuatro aros, representa la combinación perfecta entre tecnología de competición y uso cotidiano. Este superdeportivo ofrece una experiencia de conducción refinada, con un enfoque en la precisión, estabilidad y rendimiento extremo, manteniendo la versatilidad para carretera abierta.
 
-Bajo el capó se encuentra el motor V10 atmosférico de 5.2 litros FSI, heredado directamente de la experiencia de Audi en la competición de GT y Le Mans. Este propulsor genera 620 caballos y 580 Nm de par que va hacia las cueatro ruedas ofreciendo una aceleración lineal y un sonido característico, rugiente y envolvente, que recuerda a los autos de pista de Audi.
+Bajo el capó se encuentra el motor V10 atmosférico de 5.2 litros FSI, heredado directamente de la experiencia de Audi en la competición de GT y Le Mans. Este propulsor genera 620 caballos y 580 Nm de par que va hacia las cuatro ruedas ofreciendo una aceleración lineal y un sonido característico, rugiente y envolvente, que recuerda a los autos de pista de Audi.
 
 
 === Otros.
@@ -229,15 +229,15 @@ Su motor compacto y centro de gravedad bajo garantiza buena estabilidad en el pa
 
 == Adquisición 
 286.000€ del modelo básico sin ningún extra.
-centro porshe murcia Ctra. de Madrid km384 30100 Espinardo.
+centro Porshe Murcia Ctra. de Madrid km384 30100 Espinardo (Murcia).
 
 Los neumáticos deben ser del proveedor oficial de GT3, es decir de Michelin. El modelo depende de las condiciones del clima y se dividen en versiones "Pilot Sport":
 - full wet para lluvia.
-- blando usados para la clasificació
+- blando usados para la clasificación
 - medio para tandas media de carrera.
 - duro para tandas largas.
 // temperaturas superiores a ºC
-El vehiculo no lleva aire acondicionado. 
+El vehículo no lleva aire acondicionado. 
 
 
 

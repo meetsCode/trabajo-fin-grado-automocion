@@ -25,8 +25,8 @@ u otros más generales como el campeonato para Asia -el _51gt3_ @oficial-51gt3 -
 - Spa (carrera de 24 horas) @oficial-24h-spa @wiki-24h-spa
 - Nürburgring (carrera de 24 horas) @oficial-24h-nurburgring @wiki-24h-nurburgring
 
-== Elegida.
-Tras estudiar las distintas competiciones hemos elegido la "Sprint Challenge Iberica" @competicion-porsche-iberica.
+== Elección.
+Tras estudiar las distintas competiciones *hemos elegido la "Sprint Challenge Iberica"* @competicion-porsche-iberica.
 La razones de su elección son tres. La primera es por la proximidad, la segunda es por la documentación y la última que es una competición monomodelo.\
 Es fácil de entender que para unos novatos como nosotros competir fuera de casa complica innecesariamente la logística y encarece los costes. Debemos aprender mucho y afianzarnos como equipo antes de salir a competir fuera. Esta competición sólo se corre en circuitos de España y Portugal y eso lo facilita todo.\
 Por otra parte participar en una competición donde sólo hay vehículos como el tuyo te permite mejorar en las habilidades del piloto pero sobre todo permite aprender de los veteranos en detalles específicos y mejoras del modelo que corremos.
@@ -36,14 +36,16 @@ Los documentos de la carrera elegida se recogen en 3 documentos para el reglamen
 - Reglamento deportivo versión 2025 @doc-reglamento2025-competicion-porsche-iberica
 - Anexo 1 al Reglamento deportivo @doc-reglamento-anexo1-competicion-porsche-iberica
 - Anexo 2 al Reglamento deportivo @doc-reglamento-anexo2-competicion-porsche-iberica
-- Reglamento-tecnico992 @doc-reglamento-tecnico992-competicion-porsche-iberica
-- Reglamento técnico de 991 y 992 @doc-reglamento-tecnico991-992-competicion-porsche-iberica
+- Reglamento técnico del modelo 992 @doc-reglamento-tecnico992-competicion-porsche-iberica
+- Reglamento técnico de los modelos 991.1 y 991.2 @doc-reglamento-tecnico991-1y2-competicion-porsche-iberica
 
 === Reglamento técnico
-AQUÍ RESUMEN DE REGLAMENTO
+AQUÍ RESUMEN DE REGLAMENTO TÉCNICO
+https://porschesprintchallengeiberica.com/es/reglamento/
 
 === Reglamento deportivo
-AQUÍ RESUMEN DE REGLAMENTO
+AQUÍ RESUMEN DE REGLAMENTO DEPORTIVO
+https://porschesprintchallengeiberica.com/es/reglamento/
 
 
 

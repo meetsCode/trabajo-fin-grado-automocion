@@ -55,8 +55,8 @@
     Gabriel Santana\
     #link("mailto:gabrieljrsantana48@gmail.com") \
    
-    Oleg \
-    #link("mailto:oe@as.u")
+    Oleg Khodzinskyy Pidperyhora \
+    #link("mailto:khodzinskyy@gmail.com")
   ]
 )
 

@@ -19,7 +19,7 @@ El trabajo debe tratar transversalmente todos los conocimientos adquiridos duran
   - Sistemas de transmisión de fuerzas y trenes de rodaje (2ºcurso)
   
 === Material y herramientas
-Para la escritura y maquetación de este documento usaremos la aplicación typst.app @web-typst-app y la bibliografía se guardará en formato hayagriva @info-hayagriva tal y como aconseja typst @info-typst-biblio @info-typst-func-biblio
+Para la escritura y maquetación de este documento usaremos la aplicación *_typst.app_* @web-typst-app y la bibliografía se guardará en formato _hayagriva_ @info-hayagriva tal y como aconseja _typst_ @info-typst-biblio @info-typst-func-biblio
 
 == Elección del tema.
 El tema elegido por el profesor para todos los grupos ha sido *vehículos de competición*.\
