@@ -38,36 +38,52 @@ En función de los precios de los distintos lugares hemos hecho los siguientes c
 *tiempo*: 3 días. \
 *total*: 3259€\
 
-=== 1- carrera Portugal. 
-*Circuito*: XXXXXX????? \
+=== Round 1- Portimão. 
+*Circuito*: Autódromo Internacional do Algarve (Portimão, Portugal)\
 *Fecha*: Del 25 al  27 de Abril.\
 *Hotel*: Plaza Real By Atlantic Hotel (tres estrellas)\
 *Habitaciones*: 6 habitaciones (5 personas por habitación)\
 *tiempo*: 5 días.\
 *total*: 2024€\
 
-=== 2- carrera. 
-*Circuito*: Circuito de Cheste Ricardo Tormo. (Valencia, España)\
-*Fecha*: Del 14  al  15 de Junio.\
+=== Round 2- Monteblanco. 
+*Circuito*: Circuito Monteblanco (Huelva, España)\
+*Fecha*: Del 24  al  25 de Mayo.\
 *Hotel*: Oh My Left Valencia (tres estrellas)\
 *Habitaciones*: 6 habitaciones (5 personas por habitación)\
 *tiempo*: 4 días.\
 *total*: 3985,00€\
 
-=== 4- carrera. 
-*Circuito*: XXXXXX????? \
+=== Round 3- Valencia. 
+*Circuito*: Circuito de Cheste Ricardo Tormo. (Valencia, España)\
 *Fecha*: Del 11 al 15 de Septiembre.\
 *Hotel*: Gestión de Alojamientos Apartamentos (tres estrellas)\
 *Habitaciones*: 6 habitaciones (5 personas por habitación)\
 *tiempo*: 4 días.\
 *total*: 5714,00€\
 
-=== 5- carrera. 
-*Circuito*: Jerez de la Frontera (España)\
+=== Round 4- Navarra. 
+*Circuito*: Circuito de Navarra (Los Arcos, Navarra, España)\
+*Fecha*: Del 14 al 13 de Septiembre.\
+*Hotel*: Gestión de Alojamientos Apartamentos (tres estrellas)\
+*Habitaciones*: 6 habitaciones (5 personas por habitación)\
+*tiempo*: 4 días.\
+*total*: 5714,00€\
+
+=== Round 5- Jerez de la Frontera. 
+*Circuito*: Circuito de Jerez Ángel Nieto (Jerez de la Frontera, España)\
 *Fecha*: Del 1 al 2 de noviembre.\
 *Hotel*: Casa/Apartamento. New York STale Luxury (tres estrellas)\
 *Habitaciones*: 6 habitaciones (5 personas por habitación)\
 *tiempo*: 5 días.\
 *total*: 48723,00€\
+
+=== Round 6- Estoril. 
+*Circuito*: Autódromo Fernanda Pires da Silva (Estoril, Portugal)\
+*Fecha*: Del 22 al 23 de noviembre.\
+*Hotel*: Gestión de Alojamientos Apartamentos (tres estrellas)\
+*Habitaciones*: 6 habitaciones (5 personas por habitación)\
+*tiempo*: 4 días.\
+*total*: 5714,00€\
 
 
