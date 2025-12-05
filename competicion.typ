@@ -31,6 +31,8 @@ La razones de su elección son tres. La primera es por la proximidad, la segunda
 Es fácil de entender que para unos novatos como nosotros competir fuera de casa complica innecesariamente la logística y encarece los costes. Debemos aprender mucho y afianzarnos como equipo antes de salir a competir fuera. Esta competición sólo se corre en circuitos de España y Portugal y eso lo facilita todo.\
 Por otra parte participar en una competición donde sólo hay vehículos como el tuyo te permite mejorar en las habilidades del piloto pero sobre todo permite aprender de los veteranos en detalles específicos y mejoras del modelo que corremos.
 
+Los premios de la competición escogida no es público pero sospechamos que no es de tipo económico.
+
 == Normas y reglas.
 Los documentos de la carrera elegida se recogen en 3 documentos para el reglamento de carrera y 2 documentos técnicos:
 - Reglamento deportivo versión 2025 @doc-reglamento2025-competicion-porsche-iberica

@@ -11,9 +11,10 @@ Si bien algunos coches de esa época, como los Porsche 911 GT3 (996) de 2005 y 9
 
 En resumen, la homologación GT3 es un proceso complejo y exclusivo para vehículos modernos, posteriores a 2019. Si bien es posible correr con coches antiguos en otras categorías, no es factible homologar uno para la GT3 actual.
 
-Dado el caso que en este proyecto nos planteamos como un equipo privado la opción mas viable y por reglamento es que debemos comprar un vehículo desarrollado y pre modificado por la FIA para competir en la GT3. Este es el modelo de negocio sobre el que se basa toda la categoría GT3, y es la forma en que los equipos privados, incluso los que tienen un apoyo importante del fabricante (los llamados "equipos semi-oficiales"), operan.
+En este proyecto nos planteamos participar como un equipo privado ligeramente esponsorizado por una empresa ajena al mundo automovilístico. La opción mas viable  es que compremos un vehículo desarrollado y pre modificado siguiendo las normas de la FIA para competir en la GT3. 
+//Este es el modelo de negocio sobre el que se basa toda la categoría GT3, y es la forma en que los equipos privados, incluso los que tienen un apoyo importante del fabricante (los llamados "equipos semi-oficiales"), operan.
 
-A continuación hay un listado de algunos modelos de fabrica disponibles que cumplen con los requisitos de la FIA (en caso de ser equipo privado) 
+A continuación hay un listado de algunos modelos disponibles que cumplen con los requisitos de la FIA (en caso de ser equipo privado) 
 
 === Porsche 911 GT3 RS (2024) 
 *Motor*: Bóxer 6 cilindros atmosférico 4.0 Litros (Flat-Six) \
@@ -207,6 +208,7 @@ los siguientes vehículos (marca y modelo) que son pasables para homologar en la
 - Noble M500 (2022)
 - Polestar 1 (2020). 
 - Nissan Z (2023).
+- Nissan GTR Nismo GT3
 - Jaguar F type R (2020).
 - Maserati Gran Turismo S (2023).
 - TVR Griffith (2020). 
@@ -216,22 +218,24 @@ los siguientes vehículos (marca y modelo) que son pasables para homologar en la
 - Bentley Continental (2022).
 - KTM X-BOW GT-XR (2023). 
 - Arash f8 (2025). Sigue en producción desde 2014 hasta el año actual. 
-- Dallara Stradale (2020) - Sigue en producción desde 2017 hasta el año actual. Dallara es un fabricado para.coches de competición como la indy car, Formula E, etc. no obstante este modelo es sinilar al KTM GT2 Xbow, pero para calle 
+- Dallara Stradale (2020) - Sigue en producción desde 2017 hasta el año actual.
+//Dallara es un fabricado para.coches de competición como la indy car, Formula E, etc. no obstante este modelo es sinilar al KTM GT2 Xbow, pero para calle 
 - Spyker C8 Preliator (2019) 
 - Touring Superleggera Veloce12 (2024) Basado en el Ferrari 550 Maranello. 
 - Zagato 8C DoppiaCoda (2024) Zagato ha rediseñado y modernizo el alfa romeo 8c. 
 
 == Decisión.
-tras analizar los distintos modelos hemos concluido en utilizar el Porche 911.
-La principal razón es que es un modelo clásico en la GT3 con mucha documentación disponible. Esto nos ayuda a tener éxito en nuestro proyecto aprovechando las experiencias de otros.
+Tras analizar los distintos modelos hemos concluido en utilizar el Porche 911.
+La razón principal es que es un modelo clásico en la GT3 con mucha documentación disponible. 
+También existen competiciones en España exclusivas de este vehículo. Esto nos ayudará a tener éxito en nuestro proyecto aprovechando las experiencias de otros.
 Es un modelo que ademas tienes una amplia disponibilidad de piezas.
 Su motor compacto y centro de gravedad bajo garantiza buena estabilidad en el paso por curva. 
 
 == Adquisición 
-286.000€ del modelo básico sin ningún extra.
-centro Porshe Murcia Ctra. de Madrid km384 30100 Espinardo (Murcia).
+El coste de este vehículo es de 286.000€ del modelo básico sin ningún extra.
+Información obtenida de centro Porshe Murcia Ctra. de Madrid km384 30100 Espinardo (Murcia).
 
-Los neumáticos deben ser del proveedor oficial de GT3, es decir de Michelin. El modelo depende de las condiciones del clima y se dividen en versiones "Pilot Sport":
+Respecto a los neumáticos, estos deben ser del proveedor oficial de la competición  GT3 en la que participemos. Más adelante veremos que la marca escogida por los organizadores de la competición es Michelin. El modelo depende de las condiciones del clima y se dividen en versiones "Pilot Sport":
 - full wet para lluvia.
 - blando usados para la clasificación
 - medio para tandas media de carrera.

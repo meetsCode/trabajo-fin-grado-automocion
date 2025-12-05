@@ -62,7 +62,10 @@
 
  \
  \
-#align(center)[
+ 
+#pagebreak()
+
+#align(center  + horizon )[
   #set par(justify: false)
   *Abstract* \
   //#lorem(80)
@@ -103,3 +106,5 @@
 
 #bibliography("bibliografia.yml")
 
+#pagebreak()
+#include "anexo-reglamento2025-es.typ"

@@ -3,32 +3,43 @@
 #set text(region: "..") // https://typst.app/docs/reference/text/text/#parameters-region
 
 = Viajes y equipo.
+Un equipo puede crecer todo lo que se desee siempre y cuando el presupuesto lo permita. En nuestro caso hablaremos de los costes de un equipo modesto económicamente, que entra nuevo en la competición y que nace de la ilusión de un grupo de amigos que, en sus ratos libres, desean darle un empujón extra a su _hobby_ de montar coches y pilotarlos. 
+Eso impone limitaciones en costes pero también en personal y experiencia.
+Lejos de las competiciones más elitistas sólo contaremos con un vehículo para la carrera, las piezas más comunes en el almacén de repuestos y el personal será el de nuestro propio equipo que trabajará no sólo sin cobrar sin poniendo de su bolsillo.
+
+Iremos a los lugares de competición dos o tres días antes de las jornadas de competición para preparar el box y hacer los entrenamientos así como un día más para recoger todo.
+
+Lógicamente esos días de estancia y sus dietas hay que tenerlas en cuenta además de los costes de desplazamiento.
 
 == Vehículos para el desplazamiento
-- Camión para dos coches.
+- Camión para un coches.
 - Camión para herramientas y equipamiento para el equipo.
 - Camión para los recambios
 - Camión para el _motorhome_
-- 1 autobús para el trasporte de todo el equipo.
+- 1 minibús para el trasporte de todo el equipo.
 
 == Personal necesario.
 Según nuestros cálculos y teniendo en cuenta nuestras necesidades y las exigencias de los organizadores del campeonato nos aparece la siguiente lista:
 - Jefe de equipo
-- 12 mecánicos (6 por cada coche)
-- Ingenieros (8 en total):
-  - Ingeniero de suspensión (1 por coche)
-  - Ingeniero de aerodinámica (1 por coche)
-  - Ingeniero de motor (1 por coche)
-  - Ingeniero de pista (1 por coche)
-- 3 jefes de comunicación y prensa.
-- 2 pilotos principales y uno de reserva.
-- 3 empleados de cocina.
+- 6 mecánicos
+- 1 ingeniero
+//(8 en total):
+//  - Ingeniero de suspensión (1 por coche)
+//  - Ingeniero de aerodinámica (1 por coche)
+//  - Ingeniero de motor (1 por coche)
+//  - Ingeniero de pista (1 por coche)
+- 1 mánager.
+- 1 piloto.
+//- 3 empleados de cocina.
 - 1 personal de seguridad (impuesto por la organización)
 
-En total suman 30 personas.
+En total suman 11 puestos ocupados y distribuidos entre únicamente 8 personas.
+
+== Comidas.
+Hay que tener organizadas las comidas durante los viajes y mientras estemos en los destinos. Durante los viajes las comidas se llevarán a cabo en bares de carretera. En los hoteles estaremos media pensión es decir en el presupuesto se incluye dormir y desayuno. En el Box contrataremos una empresa de _catering_ que sirva bufé libre durante los días de entrenamiento y los de competición.
 
 == Hospedaje del campeonato del año 2025.
-El campeonato consta de X competiciones en distintos circuitos de la Península Ibérica. Esto nos exige tener medios de desplazamiento, hospedaje y manutención en el lugar de la competición para todos los miembros del equipo.
+El campeonato consta de 6 competiciones en distintos circuitos de la Península Ibérica. Esto nos exige tener medios de desplazamiento, hospedaje y manutención en el lugar de la competición para todos los miembros del equipo.
 En función de los precios de los distintos lugares hemos hecho los siguientes cálculos.
 === Warm up Estoril.
 *Circuito*: XXXXXX????Estoril (Portugal) \
