@@ -81,7 +81,14 @@
 
 #include "competicion.typ"
 
-//#include "fuentes.typ"
+#pagebreak()
+
+#include "reglamento.typ"
+
+#pagebreak()
+
+#include "viajes.typ"
+
 
 
 
@@ -94,4 +101,5 @@
 
 #pagebreak()
 
-#bibliography("bibliografia.yml") 
+#bibliography("bibliografia.yml")
+

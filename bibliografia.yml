@@ -75,9 +75,9 @@ web-oficial-porche911:
   type: web
   url: https://www.porsche.com/spain/models/911/911-gt3-models/911-gt3/
 
-web-typst-app:
+web-typst-app: 
   type: web
-  url: https://typst.app/
+  url: https://typst.app
 
 info-hayagriva:
   type: web
