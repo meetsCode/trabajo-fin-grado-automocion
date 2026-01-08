@@ -25,7 +25,7 @@ A continuación hay un listado de algunos modelos disponibles que cumplen con lo
 *Tracción*: Trasera\
 *Transmisión*: Automática PDK de 7 velocidades\
 
-El 911 GT3 RS (2022) Continuando con la tradición de porsche de crear vehículos con ADN de carreras. El 911 GT3 RS de la generación 992, es un vehículo diseñado sin concesiones, donde cada superficie, cada abertura y cada perfil aerodinámico cumple una función orientada al rendimiento. Presentado en 2022, este modelo representa el equilibrio perfecto entre ingeniería de competición y precisión técnica, heredando directamente la tecnología del 911 GT3 R de carreras que corre actualmente en la categoría GT3.
+El 911 GT3 RS (2022) (@captura911GT3) continua la tradición de Porsche de crear vehículos con ADN de carreras. El 911 GT3 RS de la generación 992, es un vehículo diseñado sin concesiones, donde cada superficie, cada abertura y cada perfil aerodinámico cumple una función orientada al rendimiento. Presentado en 2022, este modelo representa el equilibrio perfecto entre ingeniería de competición y precisión técnica, heredando directamente la tecnología del 911 GT3 R de carreras que corre actualmente en la categoría GT3.
 
 El corazón del GT3 RS es un motor Flat-Six atmosférico de 4.0 litros que alcanza las 9000 rpm, ofreciendo una entrega de potencia lineal y una respuesta instantánea, características propias de los motores naturalmente aspirados de Porsche. La transmisión PDK de 7 velocidades fue especialmente ajustada con relaciones más cortas que las del GT3 estándar, optimizando la aceleración y la conexión directa con el motor.
 
