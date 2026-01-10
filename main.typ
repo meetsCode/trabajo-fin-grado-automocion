@@ -6,27 +6,55 @@
 
 
 #let título = [Competición GT3]
+/*
+// fuente: https://typst.app/docs/tutorial/formatting/#show-rules
+#show "Trabajo competición GT3": name => box[
+  #box(image(
+    "documentos-fuente/logo-escuela-cabezo-fp.png",
+    height: 0.7em,
+  ))
+  #título
+]
+*/
+
+#let Trabajo-competición-GT3 = grid(
+  columns: (1fr, 1fr),
+  align(left)[
+     Trabajo de graduación Competición GT3
+  ],
+  align(right)[
+    #box(image(
+    "documentos-fuente/logo-escuela-cabezo-fp.png",
+    height: 1.5em,
+  ))
+  ],
+  
+)
 
 
 #set page(
   paper: "a4",
   margin: (x: 1.8cm, y: 1.5cm),
-  numbering: "1", 
+  numbering: "1/1", 
   header: align(
     right + horizon,
-    título),
+    //título),
+    Trabajo-competición-GT3),
 )
+
 #set text(
   font: "New Computer Modern",
-  size: 10pt
+  size: 12pt
 )
 #set par(
   justify: true,
-  leading: 0.52em,
+  //leading: 0.52em,
+  leading: 0.6em,
 )
 
-#set heading(numbering: "1.")
+#set heading(numbering: "I.1")
 #show link: underline // https://typst.app/docs/reference/model/link/
+
 
 
 #align(center + horizon, text(17pt)[
@@ -106,7 +134,7 @@
 
 #pagebreak()
 
-#bibliography("bibliografia.yml")
+#bibliography("bibliografia.yml", style: "ieee")
 
 #pagebreak()
 #include "anexo-reglamento2025-es.typ"
