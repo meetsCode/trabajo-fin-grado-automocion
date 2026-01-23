@@ -5,6 +5,14 @@
 = Introducción
 == Razón de este trabajo
 Este texto es el trabajo fin de grado superior de los autores y se realizó durante el curso 2025-2026.\
+/*
+#place(
+  top + center,
+  rect(fill: black),
+  float: true,
+)
+#lorem(30)
+*/
 Para este curso se introdujeron cambios en la forma de realizar el proyecto fin de  estudios de automoción. Los cambios más importantes fueron:
   - El trabajo se hace en grupo
   - Habrá una asignatura que se encargará de ayudar a los alumnos a cumplir con esta obligación.

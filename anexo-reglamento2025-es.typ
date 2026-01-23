@@ -1,8 +1,10 @@
-PORSCHE SPRINT CHALLENGE IBÉRICA
-REGLAMENTO TÉCNICO 2025
-Porsche 911 GT3 Cup (Tipo 992)
+= Anexo I
+PORSCHE SPRINT CHALLENGE IBÉRICA\
+REGLAMENTO TÉCNICO 2025\
+Porsche 911 GT3 Cup (Tipo 992)\
 Versión en español (traducción no oficial a efectos
-prácticos)
+prácticos)\
+
 ÍNDICE GENERAL
 1. Aprobaciones y fuentes de repuestos
 2. Principios generales (Art. 5)
@@ -13,12 +15,11 @@ prácticos)
 7. Suspensión – Art. 2.7
 8. Ruedas y neumáticos – Art. 2.8
 9. Carrocería y dimensiones – Art. 2.9
-10. Seguridad (pesos, equipamiento, combustible,
-sellos) – Arts. 5.5-5.12
+10. Seguridad (pesos, equipamiento, combustible, sellos) – Arts. 5.5-5.12
 11. Equipos eléctricos / cámaras / radio – Art. 2.11
 12. Regulaciones medioambientales – Parte 3
-13. Anexos (pesas, ángulos diferencial, puntos de
-medida, almohadillas asiento)
+13. Anexos (pesas, ángulos diferencial, puntos de medida, almohadillas asiento)\
+
 1. APROBACIONES Y FUENTES DE REPUESTOS
 La serie Porsche Sprint Challenge Ibérica (PSCI) está
 inscrita como serie nacional por la RFEDA.
@@ -31,7 +32,8 @@ Los repuestos deben adquirirse únicamente a través de P21
 Motorsport o del departamento de ventas de competición
 de Porsche AG (Schwieberdingen, Alemania).
 Neumáticos únicos: Michelin suministrados por
-Neumáticos Álvarez.
+Neumáticos Álvarez.\
+
 2. PRINCIPIOS GENERALES (Art. 5)
 • Serie monomarca; prohibida cualquier modificación no
 autorizada.
@@ -41,15 +43,11 @@ piezas Porsche originales con idéntico número de
 parte.
 • Se permite instalar piezas opcionales si el reglamento
 las menciona expresamente.
-• Las tuercas, tornillos, arandelas, etc. deben ser
-originales Porsche.
+• Las tuercas, tornillos, arandelas, etc. deben ser originales Porsche.
 • El organizador puede exigir la instalación de
-componentes adicionales para desarrollo (sin ventaja
-deportiva).
+componentes adicionales para desarrollo (sin ventaja deportiva).
 3. MOTOR – Art. 2.2
-• 6 cilindros bóxer refrigerado por agua, 3.996 cm³
-,
-8.750 rpm máx.
+• 6 cilindros bóxer refrigerado por agua, 3.996 cm³, 8.750 rpm máx.
 • Control motor Bosch MS 6.6 (precintado); software
 obligatorio:
 MS66_PAG992_GT3_0202_992GT3CUP_Klg_SC0
@@ -80,7 +78,8 @@ marcha).
 • Si se activa la función de emergencia del cambio, el
 coche debe volver a boxes y desactivarla antes de
 salir.
-• Aceite cambio obligatorio: Mobilube 1 SHC 75W-90.
+• Aceite cambio obligatorio: Mobilube 1 SHC 75W-90.\
+
 5. FRENO S – Art. 2.5
 • Circuitos independientes delantero/trasero con sensores
 de presión y balanca de frenos ajustable por el piloto.
@@ -94,13 +93,15 @@ obligatorios.
 • Cilindros maestros originales: del. 19.1 mm
 (9F1611011E), tras. 17.8 mm (9F1611011D).
 • Prohibido montar pinzas de resistencia (endurance).
+\
 6. ABS – Art. 2.6
 • Sistema Bosch Motorsport homologado (unidad
 hidráulica 9F1614095).
 • Parámetros de setup solo se pueden variar dentro del
 rango señalado (interruptor Dry/Wet, 12 posiciones).
 • Software y sensores originales deben permanecer; no
-se permite reprogramación ni uso de datos externos.
+se permite reprogramación ni uso de datos externos.\
+
 7. SUSPENSIÓN – Art. 2.7
 • Suspensión delantera de doble horquilla, trasera multi-
 link.
@@ -115,7 +116,8 @@ añadir piezas.
 prohibida cualquier modificación.
 • Referencias: amort. del. 9F1413031C, tras.
 9F1513031C; muelle principal del. 260 N/mm, tras.
-300 N/mm.
+300 N/mm.\
+
 8. RUEDAS Y NEUMÁTICOS – Art. 2.8
 • Rines de aleación ligera de una pieza con cierre
 central:
@@ -132,50 +134,36 @@ solo por Michelin oficial.
 • Tratamientos térmicos/químicos prohibidos; fundas
 térmicas prohibidas desde pre-salida.
 • Control mediante “tyre log” con códigos de barras;
-máx. 1 neumático cambiado sin penalización.
+máx. 1 neumático cambiado sin penalización.\
+
 9. CARROCERÍA Y DIMENSIONES – Art. 2.9
 • Chasis ligero acero-aluminio, jaula antivuelco soldada
 homologada FIA.
-• Capó/capota motor y alerón trasero en CFRP; alerón
-11 posiciones.
-• Ventanillas laterales y traseras en policarbonato con
-aberturas de ventilación.
-• Longitud total: 4 585 mm ± 15 mm; batalla: 2 468 mm
-± 15 mm.
-• Vía delantera: 1 885 mm ± 10 mm; vía trasera: 1 855
-mm ± 10 mm.
-• Altura libre mínima (conductor a bordo, 2,0 bar): Del.
-72 mm / Tras. 106 mm.
-• Peso mínimo coche seco: 1 300 kg (incluye cámara,
-radio, lastres de desarrollo).
-• Peso mínimo piloto + equipo obligatorio: 85 kg.
+• Capó/capota motor y alerón trasero en CFRP; alerón 11 posiciones.
+• Ventanillas laterales y traseras en policarbonato con aberturas de ventilación.
+• Longitud total: 4 585 mm ± 15 mm; batalla: 2 468 mm ± 15 mm.
+• Vía delantera: 1 885 mm ± 10 mm; vía trasera: 1 855mm ± 10 mm.
+• Altura libre mínima (conductor a bordo, 2,0 bar): Del.72 mm / Tras. 106 mm.
+• Peso mínimo coche seco: 1 300 kg (incluye cámara, radio, lastres de desarrollo).
+• Peso mínimo piloto + equipo obligatorio: 85 kg.\
+
 10. SEGURIDAD – Arts. 5.5-5.12
 • Equipamiento piloto: mono, ropa interior, calzado,
-guantes, casco, HANS homologados FIA 8856-2018
-o 8856-2000.
+guantes, casco, HANS homologados FIA 8856-2018 o 8856-2000.
 • Sistema de bebida y cuello de botella permitidos;
 montaje metálico, resistencia 30 g.
-• Sistema de extinción NOVEC obligatorio armado
-desde que el coche sale del box hasta regresar a
-parque cerrado.
-• Combustible: gasolina sin plomo 98 octanos máx. E20;
-contenedor FT3 homologado FIA.
-• Ruido máx. 112 dB(A) con silenciador estándar
-(9F1251051A).
-• Sellos de motor y ECU: solo pueden abrirse en fábrica
-Porsche; precinto roto = descalificación.
-• Parque cerrado y pesaje: prohibido añadir/retirar peso
-o líquidos; tolerancia 2 kg en báscula.
-11. EQUIPOS ELÉCTRICOS / CÁMARAS / RADIO –
-Art. 2.11
-• Display 10,3" Porsche, powerbox, batería LiFePO₄ 60
-Ah en zona acompañante.
-• ABS, presión neumáticos, cámara HD (centro del roll-
-over), transpondedor AMB en arco derecho.
-• Radio sistema oficial obligatorio; prohibida telemetría
-externa.
-• Solo el organizador puede conectar ordenador al coche
-en pista/parque cerrado.
+• Sistema de extinción NOVEC obligatorio armado desde que el coche sale del box hasta regresar a parque cerrado.
+• Combustible: gasolina sin plomo 98 octanos máx. E20; contenedor FT3 homologado FIA.
+• Ruido máx. 112 dB(A) con silenciador estándar (9F1251051A).
+• Sellos de motor y ECU: solo pueden abrirse en fábrica Porsche; precinto roto = descalificación.
+• Parque cerrado y pesaje: prohibido añadir/retirar peso o líquidos; tolerancia 2 kg en báscula.\
+
+11. EQUIPOS ELÉCTRICOS / CÁMARAS / RADIO – Art. 2.11
+• Display 10,3" Porsche, powerbox, batería LiFePO₄ 60Ah en zona acompañante.
+• ABS, presión neumáticos, cámara HD (centro del roll-over), transpondedor AMB en arco derecho.
+• Radio sistema oficial obligatorio; prohibida telemetría externa.
+• Solo el organizador puede conectar ordenador al coche en pista/parque cerrado. \
+
 12. REGULACIONES MEDIOAMBIENTALES –
 Parte 3
 • Obligatorio colocar bajo cada coche estera absorbente
@@ -188,7 +176,8 @@ apagados cuando no sean necesarios.
 • Neumáticos sucios de gravilla deben devolverse al
 equipo de mantenimiento del circuito.
 • Cumplimiento verificado por Environmental Officer;
-sanciones económicas sin derecho apelación.
+sanciones económicas sin derecho apelación.\
+
 13. ANEXOS (resumen)
 • Anexo 3: lastres auxiliares 2 kg / 3,5 kg / 6,8 kg y
 cubiertas.
@@ -199,7 +188,8 @@ tras. 2 839 mm y 3 627 mm desde eje).
 • Anexo 6: plantillas de espuma Sabelt (verde/azul) y
 espuma negra homologada para asiento.
 • Anexo 11: equivalencias de números de pieza
-anteriores (991 → 9F1…).
+anteriores (991 → 9F1…).\
+
 14. SELLOS, CONFIGURACIÓN ELÉCTRICA Y
 VÁLVULAS – Art. 2.12
 • Motor y ECU vienen precintados de fábrica (válvulas,
@@ -212,7 +202,8 @@ obligatorio.
 en log).
 – Escape en modo “standard” (CW_SILENCE = 0).
 • Se permite sujetar con bridas (máx. 3 por elemento) las
-mitades de los conductos de aire de freno trasero.
+mitades de los conductos de aire de freno trasero.\
+
 15. REGULACIONES MEDIOAMBIENTALES (Parte
 3 – texto completo)
 Objetivo: minimizar impacto en suelo, agua y aire.
@@ -238,7 +229,8 @@ e) Salida del evento
 en contenedores oficiales.
 Sanciones: multa económica cuyo importe se dona a una
 ONG medio-ambiental; en casos graves, descalificación o
-suspensión de la serie.
+suspensión de la serie.\
+
 16. REFERENCIAS RÁPIDAS DE PIEZAS Y
 MEDIDAS
 • Diferencial: 12 discos de fricción (orden PP-CD-FF).

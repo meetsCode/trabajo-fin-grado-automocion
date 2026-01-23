@@ -24,8 +24,9 @@
   ],
   align(right)[
     #box(image(
-    "documentos-fuente/logo-escuela-cabezo-fp.png",
-    height: 1.5em,
+    //"documentos-fuente/logo-escuela-cabezo-fp.png",
+    "documentos-fuente/logo-cabezofp.jpg",
+    height: 3.5em,
   ))
   ],
   
@@ -34,7 +35,11 @@
 
 #set page(
   paper: "a4",
-  margin: (x: 1.8cm, y: 1.5cm),
+  // el margen derecho menor que el izquierdo. 
+  // no sé hacerlo aún. 
+  // Sí que he separado a 2.5 la cabecera y el pie. O sea el y: en la función margin.
+  //margin: (x: 1.8cm, y: 2.5cm),
+  margin: (right: 1.8cm, left: 1.9cm, y: 2.5cm),
   numbering: "1/1", 
   header: align(
     right + horizon,
@@ -44,15 +49,18 @@
 
 #set text(
   font: "New Computer Modern",
+  //font: "Times New Roman",
+  //font: "roman",
   size: 12pt
 )
 #set par(
   justify: true,
-  //leading: 0.52em,
-  leading: 0.6em,
+  leading: 1.1em,
+  //leading: 0.6em,
+  //leading: "simple",
 )
 
-#set heading(numbering: "I.1")
+#set heading(numbering: "1.1")
 #show link: underline // https://typst.app/docs/reference/model/link/
 
 
@@ -93,6 +101,18 @@
  
 #pagebreak()
 
+
+#outline()
+#show heading.where(level: 1): set align(center)
+
+#align(center  + horizon )[
+  #set par(justify: false)
+  *Abstract* \
+  //#lorem(80)
+  This final degree work has allowed us to simulate the creation of a competition team for GT3 from scratch. We have dealt with technical, logistical and economic issues of the project. The conclusions are that it is possible to create such a project from scratch but with a cost of €1,000,000 and with a time between the creation of the team and the first race of 1 year.
+]
+
+
 #align(center  + horizon )[
   #set par(justify: false)
   *Abstract* \
@@ -100,7 +120,6 @@
   Este trabajo fin de grado nos ha permitido simular la creación de un equipo de competición para GT3 desde cero. Hemos tratado temas técnicos, logísticos y económicos del proyecto. Las conclusiones son que es posible crear de cero tal proyecto pero con un coste de 1.000.000€ y con un tiempo entre la creación del equipo y la primera carrera de 1 año.
 ]
 
-#outline()
 
 #pagebreak()
 
@@ -134,7 +153,8 @@
 
 #pagebreak()
 
-#bibliography("bibliografia.yml", style: "ieee")
+#bibliography("bibliografia.yml", style: "apa")
 
 #pagebreak()
+
 #include "anexo-reglamento2025-es.typ"
