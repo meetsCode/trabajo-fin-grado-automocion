@@ -243,6 +243,13 @@ Respecto a los neumáticos, estos deben ser del proveedor oficial de la competic
 // temperaturas superiores a ºC
 El vehículo no lleva aire acondicionado. 
 
+== Características mecánicas
+
+
+#include "caracteristicasvehiculo.typ"
+
+
+
 
 
 

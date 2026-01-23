@@ -153,7 +153,8 @@
 
 #pagebreak()
 
-#bibliography("bibliografia.yml", style: "apa")
+//#bibliography("bibliografia.yml", style: "apa")
+#bibliography("bibliografia.yml", style: "ieee")
 
 #pagebreak()
 
