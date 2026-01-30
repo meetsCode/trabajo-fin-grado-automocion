@@ -1,3 +1,20 @@
+#  BIBLIOGRAFÍA
+# Si se utilizan ideas expuestas por otros autores, NO podemos apropiamos de ellas sin citar la fuente.
+# Ejemplos.
+# Título de la obra: El motor diésel. Editorial Everest (pág. 20 a 22)
+# Página web: www. Xxxxxxxx (indicando la fecha de consulta)
+# Revista o folleto: Motores de hoy (diciembre 2019)
+# La manera de citar correcta sería la siguiente con las normas APA podéis utilizar la anterior o la que se menciona a continuación.
+# Las referencias bibliográficas se elaborarán atendiendo a la Normas de la American
+# Psychological Association (APA, https://normas-apa.org/etiqueta/normas-apa-2021/).
+# La estructura del trabajo se adaptará al contenido seleccionado. No obstante, se
+# deberá consultar al tutor o tutora del Proyecto quien dará su visto bueno.
+
+
+
+
+
+
 # los comentarios en yaml empiezan con almoadillas.
 # solo hay comentario de una línea. PUeden comenzar en cualqueir posición 
 # de la línea. Por eso los Tags no pueden ir con #GT3
@@ -9,6 +26,7 @@
 #// citing things with reference syntax (@key) or explicit calls to the citation function (#cite(<key>)). 
 #// más info en https://typst.app/docs/reference/model/bibliography/
 #bibliography("bibliografia.yml")
+
 
 
 harry:

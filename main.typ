@@ -60,8 +60,31 @@
   //leading: "simple",
 )
 
-#set heading(numbering: "1.1")
 #show link: underline // https://typst.app/docs/reference/model/link/
+
+
+//    Configuración de los títulos de los apartados
+//#show heading.where(level: 1): set text(size: 13pt, weight: "regular")
+//#show heading.where(level: 1): smallcaps
+#set heading(numbering: "1.1")
+#show heading.where(level: 1): set align(center)
+#show heading.where(level: 1): set text(
+  size: 16pt,
+  weight: "bold",
+  //style: "italic",
+)
+#show heading.where(level: 2): set text(
+  size: 14pt,
+  weight: "bold",
+  //style: "italic",
+)
+/*
+#show heading.where(level: 2): it => {
+  it.body + [.]
+}
+*/
+
+
 
 
 
@@ -103,7 +126,6 @@
 
 
 #outline()
-#show heading.where(level: 1): set align(center)
 
 #align(center  + horizon )[
   #set par(justify: false)
@@ -128,6 +150,10 @@
 #pagebreak()
 
 #include "modelos.typ"
+
+#pagebreak()
+
+#include "arreglos-y-mantenimientos.typ"
 
 #pagebreak()
 
