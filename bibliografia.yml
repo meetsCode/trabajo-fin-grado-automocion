@@ -121,7 +121,11 @@ AI-creadora-diagramas:
 competicion-porsche-iberica:
   type: web
   url: https://porschesprintchallengeiberica.com
-  
+   
+doc-reglamento-deportivo-competicion-porsche-iberica:
+  type: reference
+  url: https://porschesprintchallengeiberica.com/es/reglamento/
+ 
 doc-reglamento-tecnico992-competicion-porsche-iberica:
   type: reference
   url: https://porschesprintchallengeiberica.com/wp-content/uploads/Porsche%20Sprint%20Challenge%20Iberica_Regulamento%20Tecnico%202025%20Modelo%20992_Versão_01_21.04.2025.pdf
@@ -176,10 +180,199 @@ wiki-24h-nurburgring:
   type: web
   url: https://es.wikipedia.org/wiki/24_Horas_de_Nürburgring
 
+  
+detalles-curiosidades01: 
+  type: web
+  url: https://www.porsche.com/spain/models/911/911-gt3-models/911-gt3/ 
+#  - Fuente oficial de la página de Porsche AG España.
 
+detalles-curiosidades02: 
+  type: web
+  url: https://www.drivercars.es/reportaje-porsche-992-gt3/#:~:text=Porsche%20sac%C3%B3%20al%20mercado%20el,por%20su%20distinguible%20aler%C3%B3n%20trasero.&text=Este%20nuevo%20modelo%20ha%20sido,competici%C3%B3n%20de%20la%20marca%20alemana.
+
+detalles-curiosidades03: 
+  type: web
+  url: https://www.evo.co.uk/porsche/911-gt3/203766/used-porsche-911-gt3-9921-2021-2024-review-history-specs-and-buying-guide
+
+detalles-curiosidades04: 
+  type: web
+  url: https://www.evo.co.uk/porsche/911-gt3/203766/used-porsche-911-gt3-9921-2021-2024-review-history-specs-and-buying-guide
+#######
+detalles-curiosidades05: 
+  type: web
+  url: https://www.porsche.com/spain/models/911/911-gt3-models/911-gt3/
+
+detalles-curiosidades06: 
+  type: web
+  url: https://newsroom.porsche.com/dam/jcr:c6103be6-b5dd-47bf-a63c-60b90049721c/Ficha_911
+#   GT3 992 - cambio PDK.pdf información en documento PDF dónde se refleja con más profundidad la ficha técnica del modelo del vehículo.
+
+detalles-curiosidades07: 
+  type: web
+  url: https://www.topspeed.com/cars/car-news/learn-why-the-porsche-911-gt3-s-engine-is-a-masterpiece-of-modern-design/
+ 
+#######
+detalles-curiosidades08: 
+  type: web
+  url: https://www.16valvulas.com.ar/porsche-911-gt3-992-510-cv-9-000-rpm-y-caja-manual-para-la-version-pensada-desde-el-circuito-a-las-calles/
+
+detalles-curiosidades09: 
+  type: web
+  url: https://www.porsche.com/spain/models/911/911-gt3-models/911-gt3/
+  
+#######
+detalles-curiosidades10: 
+  type: web
+  url: https://www.porsche.com/spain/accessoriesandservice/porscheservice/parts/originalbrakes/text=Porsche%20Ceramic%20Composite%20Brakes%20(PCCB,mejora%20definitiva%20para%20su%20Porsche
+  
+detalles-curiosidades11: 
+  type: web
+  url: https://www.topgear.com/car-news/supercars/time-geek-out-new-porsche-911-gt3s-suspension
+  
+#######
+detalles-curiosidades12: 
+  type: web
+  url: https://newsroom.porsche.com/es_ES/historia/2022/es-porsche-25-aniversario-911-generacion-996-30390.html
+  
+detalles-curiosidades13: 
+  type: web
+  url:  https://www.porsche.com/spain/accessoriesandservice/classic/models/997/997-gt3/
+
+detalles-curiosidades14: 
+  type: web
+  url: https://newsroom.porsche.com/es_ES/producto/2019/es-porsche-ultimo-911-generacion-991-19619.html
+
+detalles-curiosidades15: 
+  type: web
+  url: https://www.drivercars.es/reportaje-porsche-992-gt3/
+
+detalles-curiosidades16: 
+  type: web
+  url: https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2018/04/30/15250848415627.jpg 
+  
+sistema-d-bebida01:
+  type: web
+  url: https://www.mobil.com.mx/es-mx/motorsports/blog-motorsports/como-beben-agua-los-pilotos-de-carreras-dentro-del-auto
+  
+sistema-d-bebida02:
+  type: web
+  url: https://www.core77.com/posts/132061/In-Car-Hydration-and-Urination-Systems-for-Race-Car-Drivers
+
+sistema-d-bebida03:
+  type: web
+  url: https://www.manthey-racing.com/endurance-lightweight-drinking-system
+
+sys-d-bebida04:
+  type: web
+  url: https://www.manthey-racing.com/endurance-lightweight-drinking-system
+  
+#  url: Michelin & Its Drive For Sustainability In WEC & IMSA https://share.google/d0NlsdbBxqdBvSf6i
+
+sistema-radio01:
+  type: web
+  url: https://www.pmdraceproducts.com/peltor-bell-race-car-driver-comms-system
+
+sistema-radio02:
+  type: web
+  url: https://www.racecarradios.co.uk/product-page/rcr-pro-gt
+#hInformación sobre sistemas de radio específicos y radios para coches de carreras 
+
+sistema-radio03:
+  type: web
+  url: https://www.racecarradios.co.uk/product-page/rcr-pro-gt
+
+sys-ventilacion01:
+  type: web
+  url: https://newsroom.porsche.com/en-AU/motorsports/media-guide/race-cars/porsche-911-gt3-r.html
+# Sistema de aire acondicionado: explica cómo se distribuye el aire para confort del piloto.
+sys-ventilacion02:
+  type: web
+  url: https://www.manthey-racing.com/air-condition-911-gt3-cup-992
+
+sys-ventilacion03:
+  type: web
+  url: https://www.gt2i.es/es/504/ventilacion-toma-de-aire
+#Tomas de aire y ventilación en vehículos de competición: muestra cómo las entradas de aire ayudan a alimentar sistemas de ventilación y refrigeración en autos deportivos.
+##########
+
+sys-jaula01:
+  type: web
+  url: https://en.wikipedia.org/wiki/Roll
+# Seguridad y su función básica
+
+sys-jaula02:
+  type: web
+  url: https://fiamotorsportgames.com
+#Normas de estructura de jaula y configuración) — FIA Appendix J / Art.253 (estructura y requisitos).
+
+#Especificaciones de materiales y tubos homologados — FIA Appendix J Art.285 (dimensiones mínimas).
+sys-jaula03:
+  type: web
+  url: https://www.fia.com/system/files/documents/2852026cv.pdf
+
+sys-jaula04:
+  type: web
+  url: https://newsroom.porsche.com/enUS/motorsport/us-media-guide/race-cars/porsche-911-gt3-r.html
+
+sys-jaula05:
+  type: web
+  url: https://www.autonocion.com/porsche-911-gt3-r-2019/
+
+sys-jaula06:
+  type: web
+  url: https://www.expansion.com/empresas/motor/2018/04/30/5ae6f51ce2704ea84b8b45d1.html
+
+sys-jaula07:
+  type: web
+  url: https://www.autonocion.com/wp-content/uploads/2018/05/Porsche-911-GT3-R-2019-1.jpg
+
+sys-jaula08:
+  type: web
+  url: https://www.stuttcars.com/wp-content/uploads/2024/06/2015-Porsche-911-GT3-RS.jpg
+
+sys-jaula09:
+  type: web
+  url: https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2018/04/30/15250848764095.jpg
+##########
+
+sys-antiincencio01:
+  type: web
+  url: https://photos.motoiq.com/MotoIQ/Features/StopTech-WC-Porsche/i-VzchzCK/0/M/JEF2390-M.jpg
+  
+sys-antiincencio02:
+  type: web
+  url: https://motorsport.org.au/wpblob0fe832abcb/wp-content/uploads/images/default-source/2023/may/7ff5e30a-60e9-5835-5c7a-bef07c30f023.jpg?x54371
+  
+sys-antiincencio03:
+  type: web
+  url: https://motorsport.org.au/media/news/detail/2023/05/24/fia-update-on-fire-extinguisher-systems/
+  
+sys-antiincencio04:
+  type: web
+  url: https://www.suppressionsystems.com/wp-content/uploads/sites/4/2021/05/Novec-1230-Tanks.pdf
+
+sys-antiincencio05:
+  type: web
+  url: https://www.suppressionsystems.com/novec-1230/
+##########
 
 
 # pendientes de ver:
 # Cómo modificar un coche de carreras MartiniWorks https://youtu.be/vB4zswJx2WI
 # Por qué las suspensiones duras no hacen a tu coche más rápido [Dinámica Vehicular 101] ch:PowerArt Guille García Alfonsín    Te explico cómo calcular la dureza ideal de los muelles de un coche según su frecuencia natural —y por qué más duro no siempre significa mejor. Descubre el límite real entre confort https://youtu.be/1rRU16OsGrU
 # 
+#/*
+#https://newsroom.porsche.com/es_ES/historia/2022/es-porsche-25-aniversario-911-generacion-996-30390.html
+
+#https://www.porsche.com/spain/accessoriesandservice/classic/models/997/997-gt3/
+#https://newsroom.porsche.com/es_ES/producto/2019/es-porsche-ultimo-911-generacion-991-19619.html
+#https://www.drivercars.es/reportaje-porsche-992-gt3/
+#*/
+
+#/*
+#Enlaces (1):https://www.porsche.com/spain/models/911/911-gt3-models/911-gt3/ - Fuente
+#oficial de la página de Porsche AG España.
+#https://www.drivercars.es/reportaje-porsche-992-gt3/#:~:text=Porsche%20sac%C3%B3%20al%20mercado%20el,por%20su%20distinguible%20aler%C3%B3n%20trasero.&text=Este%20nuevo%20modelo%20ha%20sido,competici%C3%B3n%20de%20la%20marca%20alemana.
+
+#https://www.evo.co.uk/porsche/911-gt3/203766/used-porsche-911-gt3-9921-2021-2024-review-history-specs-and-buying-guide
+#*/

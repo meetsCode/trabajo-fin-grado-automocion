@@ -3,6 +3,7 @@
 #set text(region: "..") // https://typst.app/docs/reference/text/text/#parameters-region
 
 = Modelo 
+== Introducción.
 En este apartado vamos a recoger datos de los distintos modelos de vehículos disponibles para GT3, elegir uno para nuestro trabajo y justificar dicha decisión.
 
 == Modelos disponibles
@@ -12,16 +13,15 @@ Si bien algunos coches de esa época, como los Porsche 911 GT3 (996) de 2005 y 9
 En resumen, la homologación GT3 es un proceso complejo y exclusivo para vehículos modernos, posteriores a 2019. Si bien es posible correr con coches antiguos en otras categorías, no es factible homologar uno para la GT3 actual.
 
 En este proyecto nos planteamos participar como un equipo privado ligeramente esponsorizado por una empresa ajena al mundo automovilístico. La opción mas viable  es que compremos un vehículo desarrollado y pre modificado siguiendo las normas de la FIA para competir en la GT3. 
-//Este es el modelo de negocio sobre el que se basa toda la categoría GT3, y es la forma en que los equipos privados, incluso los que tienen un apoyo importante del fabricante (los llamados "equipos semi-oficiales"), operan.
 
 A continuación hay un listado de algunos modelos disponibles que cumplen con los requisitos de la FIA (en caso de ser equipo privado) 
 
-=== Porsche 911 GT3 RS (2024) 
+=== Porsche 911 GT3 (2025) 
 *Motor*: Bóxer 6 cilindros atmosférico 4.0 Litros (Flat-Six) \
 *Potencia*: 525 cv (518 hp)\
 *Aceleración* 0-100: 3.2 s\
 *Peso*: 1450 kg\
-*Velocidad* máxima: 296 km/h\
+*Velocidad* máxima: 310 km/h\
 *Tracción*: Trasera\
 *Transmisión*: Automática PDK de 7 velocidades\
 
@@ -197,53 +197,101 @@ El Audi R8 V10 Performance, uno de los iconos de la marca de los cuatro aros, re
 Bajo el capó se encuentra el motor V10 atmosférico de 5.2 litros FSI, heredado directamente de la experiencia de Audi en la competición de GT y Le Mans. Este propulsor genera 620 caballos y 580 Nm de par que va hacia las cuatro ruedas ofreciendo una aceleración lineal y un sonido característico, rugiente y envolvente, que recuerda a los autos de pista de Audi.
 
 
-=== Otros.
-En el caso de que seamos un equipo OFICIAL, debemos seleccionar una marca y modelo sin repetir los modelos ya existentes que ya compiten en la GT3, es decir, no podemos ser de otro equipo y usar el mismo vehículo del equipo rival.
-// No entiendo este párrafo.!!!!
-// G: Pues que básicamente si nosotros 5 nos consideramos como equipo privado tenemos que usar ya modelos (coches) ya homologados por la FIA, en el caso de que nos consideremos como un equipo "oficial" ya para este caso es que entramos a la categoria como un equipo nuevo y un fabricante (fabricante que podemos elegir) y para este caso en el que seamos equipo oficial debemos usar modelos que son y pueden ser aprobados por la FIA. En pocas palabras estuve investigando y la fia no admite modelos antiguos porque su homologación ya ha expirado. si o si debemos usar modelos de producción actuales. Y tambien que no podemos repetir marca y modelo porque no tendria sentido ser de un equipo diferente y correr con un coche de la misma marca o modelo de otro equipo, por eso en la GT3 hay varios fabricantes.!!!, en resumen si nosotros entramos como equipo oficial podemos entrar a la GT3 con el coche que queramos pero este coche debe cumplir los requisitos para la homologación.
+=== Decisión
+Tras analizar los distintos modelos disponibles, hemos concluido que el vehículo más adecuado para nuestro proyecto es el Porsche 911 GT3, concretamente un modelo reciente perteneciente a la generación 992.
+La elección se fundamenta principalmente en que se trata de un modelo emblemático dentro de la categoría GT3, con una amplia cantidad de documentación técnica y datos disponibles. \
+Asimismo, existen competiciones en España exclusivas de este vehículo, como la Porsche GT3 Cup o Copa Porsche GT3, lo que nos permitirá aprovechar la experiencia acumulada por otros equipos profesionales y aumentar las probabilidades de éxito del proyecto.
+Además, el Porsche 911 GT3 cuenta con una gran disponibilidad de piezas en el mercado automovilístico, lo que facilita el mantenimiento y la optimización del vehículo. \
+Su motor compacto, su bajo peso y un centro de gravedad reducido garantizan una excelente estabilidad en el paso por curva y una buena aceleración. Por otro lado, su motor, aunque de cilindrada contenida pero altamente potente, nos permitirá asegurar un buen rendimiento en rectas y facilitar los adelantamientos.\
+En definitiva un vehículo con el que podemos aprender, experimentar, divertirnos y asequible.
 
-los siguientes vehículos (marca y modelo) que son pasables para homologar en la GT3 son:
-- Subaru BRZ (2025).
-- Alpine A110s (2023).  
-- Noble M500 (2022)
-- Polestar 1 (2020). 
-- Nissan Z (2023).
-- Nissan GTR Nismo GT3
-- Jaguar F type R (2020).
-- Maserati Gran Turismo S (2023).
-- TVR Griffith (2020). 
-- Lotus emira (2024).
-- Maserati MC20 (2022). 
-- Zenvo TSR-S (2020).
-- Bentley Continental (2022).
-- KTM X-BOW GT-XR (2023). 
-- Arash f8 (2025). Sigue en producción desde 2014 hasta el año actual. 
-- Dallara Stradale (2020) - Sigue en producción desde 2017 hasta el año actual.
-//Dallara es un fabricado para.coches de competición como la indy car, Formula E, etc. no obstante este modelo es sinilar al KTM GT2 Xbow, pero para calle 
-- Spyker C8 Preliator (2019) 
-- Touring Superleggera Veloce12 (2024) Basado en el Ferrari 550 Maranello. 
-- Zagato 8C DoppiaCoda (2024) Zagato ha rediseñado y modernizo el alfa romeo 8c. 
+=== Adquisición 
+El coste del vehículo seleccionado asciende a 286.000 €, correspondiente al modelo base del Porsche 911 GT3 del año 2025, sin incluir ningún tipo de equipamiento adicional. Esta información ha sido obtenida directamente del Centro Porsche Murcia, ubicado en la Carretera de Madrid, km 384, 30100 Espinardo (Murcia). \
+En cuanto a los neumáticos, estos deberán ser suministrados por el proveedor oficial de la competición en la que se participe. Más adelante se detalla que la marca designada por los organizadores es Michelin. El modelo específico de neumático variará en función de las condiciones climáticas y del estado de la pista, y se comercializa bajo la gama “Pilot Sport”, la cual se divide en diferentes versiones adaptadas a cada situación. 
 
-== Decisión.
-Tras analizar los distintos modelos hemos concluido en utilizar el Porche 911.
-La razón principal es que es un modelo clásico en la GT3 con mucha documentación disponible. 
-También existen competiciones en España exclusivas de este vehículo. Esto nos ayudará a tener éxito en nuestro proyecto aprovechando las experiencias de otros.
-Es un modelo que ademas tienes una amplia disponibilidad de piezas.
-Su motor compacto y centro de gravedad bajo garantiza buena estabilidad en el paso por curva. 
+- Full Wet (lluvia extrema):
+Son neumáticos especiales diseñados para su uso en condiciones de lluvia intensa, cuando el circuito se encuentra completamente mojado. Su dibujo profundo permite evacuar grandes cantidades de agua, reduciendo el riesgo de aquaplaning y mejorando la estabilidad y el control del vehículo.
 
-== Adquisición 
-El coste de este vehículo es de 286.000€ del modelo básico sin ningún extra.
-Información obtenida de centro Porshe Murcia Ctra. de Madrid km384 30100 Espinardo (Murcia).
+- Compuesto blando:
+Se utiliza mayoritariamente durante la sesión de clasificación, ya que, al estar fabricado con un compuesto más blando, ofrece un mayor nivel de agarre. Esto permite al vehículo tomar las curvas a mayor velocidad y registrar tiempos más competitivos. Su principal desventaja es la rápida degradación, lo que limita su uso a distancias cortas.
 
-Respecto a los neumáticos, estos deben ser del proveedor oficial de la competición  GT3 en la que participemos. Más adelante veremos que la marca escogida por los organizadores de la competición es Michelin. El modelo depende de las condiciones del clima y se dividen en versiones "Pilot Sport":
-- full wet para lluvia.
-- blando usados para la clasificación
-- medio para tandas media de carrera.
-- duro para tandas largas.
-// temperaturas superiores a ºC
-El vehículo no lleva aire acondicionado. 
+- Compuesto medio:
+Este tipo de neumático se emplea principalmente durante la carrera, al igual que el compuesto duro. Proporciona un equilibrio entre agarre y durabilidad, siendo menos adherente que el blando, pero considerablemente más resistente al desgaste. Gracias a ello, permite completar un mayor número de vueltas antes de realizar una parada en boxes, lo que lo hace ideal para carreras de mayor duración.
 
-== Características mecánicas
+- Compuesto duro:
+Al igual que el compuesto medio, está orientado a la resistencia y la fiabilidad. Su principal ventaja es una vida útil mucho más prolongada en comparación con los neumáticos blandos y medios. No obstante, esta mayor durabilidad implica un menor nivel de agarre, lo que se traduce en una reducción del rendimiento en curva. A cambio, permite realizar stints más largos y cubrir mayores distancias sin necesidad de cambiar neumáticos.
+
+Cabe destacar que la elección de cada tipo de neumático no se realiza de manera arbitraria, sino que responde a un análisis estratégico previo. Estos compuestos están diseñados para que los equipos de la competición planifiquen distintas estrategias, tanto para la clasificación como para la carrera. Es común que algunos equipos opten por iniciar la carrera con neumáticos blandos, especialmente cuando sus pilotos parten desde las últimas posiciones, ya que esta estrategia puede facilitar adelantamientos y permitirles escalar puestos y sumar puntos. Por otro lado, otros equipos deciden comenzar con neumáticos medios o duros con el objetivo de mantener su posición en pista, especialmente si prevén que sus rivales realizarán paradas tempranas en boxes.
+
+Durante la carrera, el piloto puede aportar su opinión sobre el compuesto a utilizar; sin embargo, en la mayoría de los casos son el ingeniero de pista o el estratega del equipo quienes toman la decisión final.\
+Estas decisiones estratégicas, relacionadas con la elección y el momento de uso de los neumáticos, suelen ser determinantes para el resultado final y, en muchos casos, son las que permiten a un piloto ganar una carrera. Michelin proporciona sus neumáticos para otras categorías como el WEC, IMSA, GT3, LMDH, y DTM
+
+En este trabajo también planearemos una estrategia para tener un buen desempeño óptimo para cada ronda en la que participaremos. 
+ 
+
+== Características mecánicas del vehículo seleccionado
+
+El Porsche 911 GT3 es un vehículo deportivo coupé de dos puertas, fabricado por el constructor alemán Porsche AG desde 1999 hasta la actualidad. Se trata de una de las versiones más emblemáticas y orientadas a la competición dentro de la gama 911. Este modelo toma como base el Porsche 911 Carrera, aunque incorpora modificaciones mucho más radicales en términos de prestaciones, chasis, aerodinámica y materiales, con un claro enfoque hacia el uso en circuito.
+
+
+El modelo se distingue por el uso intensivo de materiales ligeros, como la fibra de carbono y el aluminio, empleados en elementos de la carrocería y del interior con el objetivo de reducir peso y mejorar el rendimiento dinámico. Asimismo, cuenta con una aerodinámica completamente rediseñada, desarrollada en el túnel de viento de Porsche, que incrementa significativamente la carga aerodinámica y la estabilidad a altas velocidades.
+
+En su generación más reciente (992), el presenta un diseño estético renovado con respecto a su predecesor. Entre los cambios más destacados se encuentran los paragolpes delantero y trasero, un alerón trasero de grandes dimensiones con soportes tipo “swan neck”, nuevos faros delanteros y pilotos traseros, todos ellos optimizados tanto a nivel visual como aerodinámico. Además, incorpora mejoras sustanciales en el chasis y la suspensión, heredadas directamente de la experiencia de Porsche en competición, especialmente del 911 GT3 Cup.
+
+A nivel mecánico, el 911 GT3 equipa un motor atmosférico de seis cilindros opuestos (bóxer), una característica que Porsche ha mantenido como seña de identidad del modelo. Este propulsor ofrece una potencia superior a la de la generación anterior, junto con una respuesta más directa y una capacidad de alcanzar regímenes de giro muy elevados, lo que lo convierte en uno de los pocos deportivos modernos que aún prescinden de la sobrealimentación por turbo.
+
+
+#align(center)[
+  #figure(
+    image("documentos-fuente/fotoCoche15250848415627.jpg", width: 60%),
+    caption: [Imagen del Porche 911 GT3 @detalles-curiosidades16]
+   ) 
+]
+// https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2018/04/30/15250848415627.jpgk
+
+
+El Porsche 911 GT3 equipa un motor atmosférico de seis cilindros opuestos (bóxer) de 4.0 litros, capaz de alcanzar un régimen máximo de 9.000 rpm, una cifra poco habitual en vehículos de producción actuales. Este propulsor desarrolla una potencia de 510 CV y un par motor de 450 Nm, lo que le permite acelerar de 0 a 100 km/h en 3,4 segundos y alcanzar una velocidad máxima de 310 km/h.
+
+Fiel a la tradición de la marca alemana y a la arquitectura característica de la gama 911, el motor se encuentra situado en la parte trasera del vehículo, dispuesto de forma longitudinal.
+
+#align(center)[
+  #figure(
+    image("documentos-fuente/motor_JEF2431-M.jpg", width: 60%),
+    caption: [Captura de la web oficial de _motoiq_.  @sys-jaula07 ]
+   )
+]
+// fuente https://photos.motoiq.com/MotoIQ/Features/StopTech-WC-Porsche/i-vfPNHRt/0/M/JEF2431-M.jpg
+
+
+
+
+Además, cuenta con tracción trasera, lo que significa que la potencia se transmite exclusivamente a las ruedas del eje posterior. Esta configuración contribuye a una excelente motricidad y a un comportamiento dinámico muy preciso, especialmente en conducción deportiva.
+
+En cuanto a la transmisión, el Porsche 911 GT3 equipa una caja de cambios automática PDK de 7 velocidades con doble embrague, la cual es 17 kg más ligera que la de generaciones anteriores. Esta transmisión se caracteriza por contar con relaciones de cambio cortas, lo que contribuye a una respuesta más inmediata y a una mayor agilidad del vehículo. El accionamiento del cambio ofrece una sensación precisa, rápida y directa, especialmente en conducción deportiva.
+
+De manera alternativa, el modelo también se ofrece con una caja de cambios manual de 6 velocidades, pensada para los conductores más puristas. Ambas configuraciones incorporan un diferencial autoblocante electrónico y un sistema de distribución de par completamente variable, lo que mejora la tracción, la estabilidad y el control del vehículo en condiciones de alta exigencia, tanto en carretera como en circuito.
+
+
+=== Detalles y curiosidades destacables del 911 GT3:
+
+- El nombre “GT3” hace referencia a la categoría GT3 de competición, para la cual el modelo fue concebido originalmente como base homologada.
+
+- Porsche desarrolla el 911 GT3 en el mismo departamento que sus vehículos de competición, el Porsche Motorsport.
+
+- A diferencia de otros deportivos modernos, el GT3 sigue ofreciendo cambio manual como opción, algo muy valorado por los puristas de la marca.
+- Gran parte de la tecnología del GT3 de calle procede directamente del 911 GT3 Cup, vehículo utilizado en campeonatos monomarca oficiales de Porsche en todo el mundo.
+
+- Según los ingenieros de la marca, el 911 GT3 está diseñado para ser apto para circular por carretera, pero con un rendimiento capaz de competir en circuito sin necesidad de modificaciones importantes
+
+#align(center)[
+  #figure(
+    image("documentos-fuente/fotoCoche15250847859207.jpg", width: 60%),
+    caption: [Imagen del Porche 911 GT3 @detalles-curiosidades16]
+   ) 
+]
+// https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2018/04/30/15250848415627.jpgk
+
+Este ultimo detalle refuerza nuestra elección ya que básicamente el 911 GT3 es un modelo nacido para competir y que lo hace más "barato" preparar para competir en la categoría lo cual nos beneficia porque evitamos altos costes a la hora de preparar un vehículo.
 
 
 #include "caracteristicasvehiculo.typ"

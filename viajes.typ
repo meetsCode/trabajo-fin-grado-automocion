@@ -3,22 +3,23 @@
 #set text(region: "..") // https://typst.app/docs/reference/text/text/#parameters-region
 
 = Viajes y equipo.
-Un equipo puede crecer todo lo que se desee siempre y cuando el presupuesto lo permita. En nuestro caso hablaremos de los costes de un equipo modesto económicamente, que entra nuevo en la competición y que nace de la ilusión de un grupo de amigos que, en sus ratos libres, desean darle un empujón extra a su _hobby_ de montar coches y pilotarlos. 
+Un equipo puede crecer todo lo que se desee siempre y cuando el presupuesto lo permita. En nuestro caso hablaremos de los costes de un equipo modesto económicamente, que entra nuevo en la competición y que nace de la ilusión de un grupo de amigos que, en sus ratos libres, desean darle un empujón extra a su _hobby_ de montar coches y pilotarlos. \
 Eso impone limitaciones en costes pero también en personal y experiencia.
-Lejos de las competiciones más elitistas sólo contaremos con un vehículo para la carrera, las piezas más comunes en el almacén de repuestos y el personal será el de nuestro propio equipo que trabajará no sólo sin cobrar sino poniendo dinero de su bolsillo. Lógicamente estamos abiertos a patrocinio como veremos en otro apartado.
+Lejos de las competiciones más elitistas sólo contaremos con un vehículo para la carrera, las piezas más comunes en el almacén de repuestos y el personal será el de nuestro propio equipo que trabajará no sólo sin cobrar sino poniendo dinero de su bolsillo. \
+Lógicamente estamos abiertos a patrocinio como veremos en otro apartado.\
 
-Iremos a los lugares de competición dos o tres días antes de las jornadas de competición para preparar el box y hacer los entrenamientos así como un día más tras la competición para recoger todo. Eso significa que pernoctaremos 4 días añadidos a los dos o tres días que haya de carrera.
+Hemos planificado los viajes teniendo en cuenta que iremos a los lugares de competición dos o tres días antes de las jornadas de competición para preparar el box y hacer los entrenamientos. También nos quedaremos un día más tras la competición para recoger todo. Eso significa que pernoctaremos 4 días añadidos a los dos o tres días que haya de carrera.
 
 Lógicamente esos días de estancia y sus dietas hay que añadirlos a los costes de desplazamiento.
 
 == Vehículos para el desplazamiento
-- Camión para un coches.
+- Camión para un coche.
 - Camión para herramientas, equipamiento y recambios.
 - Caravana como _motorhome_
 - 1 minibús para el trasporte de todo el equipo ( 8 personas) y bola de remolque para la caravana motorhome.
 
 == Roles y personal necesario.
-Hay distintos roles necesarios para una carrera. Un rol puede ser ocupado por una más personas y a la vez una persona puede tener varios roles.
+Hay distintos roles necesarios para una carrera. Un rol puede ser ocupado por una más personas y a la vez una persona puede tener varios roles. Esto nos ahorrará costes.
 
 Según nuestros cálculos y teniendo en cuenta nuestras necesidades y las exigencias de los organizadores del campeonato nos aparece la siguiente lista de roles:
 - Jefe de equipo
@@ -41,10 +42,11 @@ En total suman 11 roles distribuidos entre únicamente 8 personas.
 - 6 mecánicos.  
 
 == Seguridad
-La organización nos exige contratar una persona de seguridad. Esta persona no pertenece propiamente al equipo y se contratará a través de una empresa externa.
+La organización nos exige contratar una persona de seguridad. Esta persona no pertenece propiamente al equipo y se contratará a través de una empresa externa localizada en el lugar donde estemos.
 
 == Comidas.
-Hay que tener organizadas las comidas durante los viajes y mientras estemos en los destinos. Durante los viajes las comidas se llevarán a cabo en bares de carretera. En los hoteles estaremos media pensión es decir en el presupuesto se incluye dormir y desayuno. En el Box contrataremos una empresa de _catering_ que sirva bufé libre durante los días de entrenamiento y los de competición.
+Hay que tener organizadas las comidas durante los viajes y mientras estemos en los destinos. Durante los viajes las comidas se llevarán a cabo en bares de carretera. \
+En los hoteles estaremos a media pensión, es decir en el presupuesto se incluye dormir y desayuno. En el Box contrataremos una empresa de _catering_ que sirva bufé libre durante los días de entrenamiento y los de competición.
 
 == Hospedaje del campeonato del año 2025.
 El campeonato consta de 6 competiciones en distintos circuitos de la Península Ibérica. Esto nos exige tener medios de desplazamiento, hospedaje y manutención en el lugar de la competición para todos los miembros del equipo.

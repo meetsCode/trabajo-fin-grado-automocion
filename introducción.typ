@@ -59,7 +59,7 @@ Las competiciones GT3 son de muy distinto tipo y reglas y todas tienen en común
 - Los circuitos son cerrados y a menudo son los mismos en los que corren profesionales.
 
 === Las competiciones.
-Cualquier particular puede organizar una carrera GT3 siempre y cuando cumpla con unas normas más o menos asequibles de la FIA. Esto hace que existan un montón de campeonatos de GT3 y cualquiera puede apuntarse a ellas si su agenda se lo permite. El bolsillo también importa pero como ya comentamos antes los costes no son disparatados, como sí sucede en otras competiciones.\
+Cualquier particular puede organizar una carrera GT3 siempre y cuando cumpla con unas normas más o menos asequibles de la FIA. Esto hace que existan un montón de campeonatos de GT3 y cualquiera puede apuntarse a ellas si su agenda se lo permite. El bolsillo también importa pero como ya comentamos antes aunque los costes son altos no son disparatados, como sí sucede en otras competiciones.\
 Por poner algunos ejemplos existen competiciones de GT3 sólo para Europa @European-Master-Series-reglamento @gt-world-challenge-europe. En algunas competiciones admiten todo tipo de vehículo GT3 que corren juntos mientras que en otras son exclusivas para un modelo concreto de coche @web-carreras-exclusivas-porche.\
 
 === Esponsorización y especialización.

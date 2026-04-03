@@ -39,7 +39,7 @@
   // no sé hacerlo aún. 
   // Sí que he separado a 2.5 la cabecera y el pie. O sea el y: en la función margin.
   //margin: (x: 1.8cm, y: 2.5cm),
-  margin: (right: 1.8cm, left: 1.9cm, y: 2.5cm),
+  margin: (right: 1.8cm, left: 1.9cm, y: 2.8cm),
   numbering: "1/1", 
   header: align(
     right + horizon,
@@ -111,7 +111,7 @@
   
   ],
   align(center)[
-    Gabriel Santana\
+    Gabriel Rodriguez \
     #link("mailto:gabrieljrsantana48@gmail.com") \
    
     Oleg Khodzinskyy Pidperyhora \
@@ -166,6 +166,10 @@
 #pagebreak()
 
 #include "viajes.typ"
+
+#pagebreak()
+
+#include "escandallo.typ"
 
 
 
