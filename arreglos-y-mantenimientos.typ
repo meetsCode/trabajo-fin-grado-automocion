@@ -8,6 +8,8 @@ En este apartado trataremos todos las partes o piezas o sistemas que debamos de 
 Algunos de estos sistemas son obligatorios por la organizadora de la carrera mientras que otros son voluntarios e incumben a la seguridad o comodidad para el conductor.
 
 
+#include "vehiculo_base.typ"
+
 #include "bebida.typ"
 
 #include "precios_aprox.typ"
