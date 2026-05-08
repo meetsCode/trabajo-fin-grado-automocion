@@ -1,0 +1,9 @@
+pieza,Precio unidad,frecuencia de cambio,num cambios/temporada,coste total temporada
+Discos de freno,"1.500,00 €",1 cada 2 carreras,3,"4.500,00 €"
+Pastillas de freno,"500,00 €",1 cada 2 carreras,3,"1.500,00 €"
+Neumáticos,"2.000,00 €",1 ó 2 cada carrera ,9,"18.000,00 €"
+Aceite + filtros,"300,00 €",1 cada carrera ,6,"1.800,00 €"
+Suspensión (mantenimiento),"2.000,00 €",1 ó 2 cada temporada,"1,5","3.000,00 €"
+Caja de cambios (revisión/rebuild),"10.000,00 €",1 temporada,1,"10.000,00 €"
+Carrocería (golpes/reparación),"2.500,00 €",Variable,3,"7.500,00 €"
+Total,,,,"46.300,00 €"

@@ -4,8 +4,8 @@ En coches de carreras, el piloto no puede parar a beber normalmente, así que lo
 instalan un sistema que permite ingerir líquidos mientras se conduce.
 Este sistema consiste en:
 Un depósito de líquido (agua o bebida isotónica) normalmente colocado detrás del asiento o
-en un soporte dentro del habitáculo.
-Un tubo que va desde el depósito hasta el casco del piloto.
+en un soporte dentro del habitáculo
+y un tubo que va desde el depósito hasta el casco del piloto.
 En muchos casos, un botón en el volante que controla una pequeña bomba para que el
 líquido llegue al piloto con facilidad.\
 Este sistema permite al piloto hidratarse sin quitar las manos del volante ni perder atención
@@ -101,14 +101,14 @@ Sistemas como los de RCR PRO-GT o radios digitales especializadas ofrecen:
 - Expansión para más miembros del equipo si hace falta.
 Por ejemplo, el kit RCR PRO-GT está diseñado para coches como GT3 y permite una
 comunicación clara y potente entre coche y equipo.
-Enlaces de las fuentes consultadas.
-Sobre el apartado 1 y 2
+//Enlaces de las fuentes consultadas.
+//Sobre el apartado 1 y 2
 @sistema-radio02
 
 == Sistema de ventilación del habitáculo
 === Ventilación y aire acondicionado en los coches de competición GT3
-Aire acondicionado instalado en el GT3 como en algunos coches de competición GT3, cuentan con aire acondicionado integrado como parte del paquete destinado a mantener al piloto en condiciones térmicas aceptables.\
-Este sistema se utiliza especialmente en carreras de resistencia o climas muy calurosos, e incluso se conecta directamente al asiento y al casco del piloto para mejorar la eficacia del enfriamiento.
+/*Aire acondicionado instalado en el GT3 como en */ Algunos coches de competición GT3 cuentan con aire acondicionado integrado como parte del paquete destinado a mantener al piloto en condiciones térmicas aceptables.\
+Este sistema se utiliza especialmente en carreras de resistencia o climas muy calurosos e incluso se conecta directamente al asiento y al casco del piloto para mejorar la eficacia del enfriamiento.
 
 === ¿Cómo se gestiona el aire dentro del habitáculo?
 
@@ -123,9 +123,10 @@ En un coche GT3 de competición, los sistemas de ventilación/refrigeración sue
 - Aire acondicionado piloto: Unidad de aire acondicionado compacta adaptada a competición (normalmente con control manual en el volante o cerca del asiento).
 - Conductos internos: Tuberías internas que distribuyen el aire frío directamente hacia el asiento, casco o puntos estratégicos (como el pecho y la espalda) para mantener al piloto fresco.
 
-Enlaces de referencia usados
-Información oficial sobre ventilación y aire acondicionado en el Porsche 911 GT3
-(competición): contiene detalle de aire acondicionado integrado directamente al piloto. @sys-ventilacion01 @sys-ventilacion02 @sys-ventilacion03
+//Enlaces de referencia usados
+//Información oficial sobre ventilación y aire acondicionado en el Porsche 911 GT3
+//(competición): contiene detalle de aire acondicionado integrado directamente al piloto. 
+Fuentes: @sys-ventilacion01 @sys-ventilacion02 @sys-ventilacion03
 /*
 - https://newsroom.porsche.com/en
 - AU/motorsports/media-guide/race-cars/porsche-9
@@ -139,12 +140,12 @@ ayudan a alimentar sistemas de ventilación y refrigeración en autos deportivos
 - https://www.gt2i.es/es/504/ventilacion-toma-de-aire
 */
 == Sistema de jaula en el habitáculo.
-La jaula de seguridad o roll cage es una estructura tubular interna instalada dentro del habitáculo para proteger al piloto en caso de choque, vuelco o impacto lateral severo. \
+La jaula de seguridad o _roll cage_ es una estructura tubular interna instalada dentro del habitáculo para proteger al piloto en caso de choque, vuelco o impacto lateral severo. \
 Así pues, sirve para mantener la integridad del habitáculo y absorber energía de choque, reduciendo el riesgo de lesiones graves.
 === Función principal de la jaula: protección del piloto
 Evita el colapso del habitáculo en caso de accidentes graves (choque frontal, lateral o vuelco).
 ==== Refuerzo estructural
-Aumenta la rigidez torsional del coche, lo que puede mejorar el comportamiento dinámico en competición. 
+Aumenta la rigidez torsional del coche lo que puede mejorar el comportamiento dinámico en competición. 
 ==== Integración con otros elementos de seguridad
 Sirve como base para instalar arneses, redes, asientos y otros sistemas homologados.
 
@@ -159,11 +160,11 @@ Sirve como base para instalar arneses, redes, asientos y otros sistemas homologa
 === Qué forma tiene una jaula típica de competición
 Una jaula homologada FIA (como la que lleva un GT3 de competición) tiene varios
 elementos estructurales básicos:
-- Arco principal (main roll bar): un tubo transversal detrás de los asientos que protege la cabeza en caso de vuelco.
-- Arco delantero (front roll bar): sigue la forma de los pilares del parabrisas y protege en impactos frontales.
-- Barras longitudinales y transversales: conectan los arcos principales para formar una estructura tridimensional rígida.
-- Backstays (refuerzos traseros): tubos que refuerzan desde el arco principal hacia atrás.
-- Barras laterales/door bars: protegen contra impactos laterales.
+- *Arco principal* (_main roll bar_): un tubo transversal detrás de los asientos que protege la cabeza en caso de vuelco.
+- *Arco delantero* (_front roll bar_): sigue la forma de los pilares del parabrisas y protege en impactos frontales.
+- *Barras longitudinales y transversales*: conectan los arcos principales para formar una estructura tridimensional rígida.
+- _Backstays_ (*refuerzos traseros*): tubos que refuerzan desde el arco principal hacia atrás.
+- *Barras laterales* (_door bars_): protegen contra impactos laterales.
 Las conexiones deben situarse a nivel del techo siempre que sea posible, y los tubos deben
 estar lo más cerca posible de los paneles interiores del chasis para maximizar la protección del piloto.
 
@@ -177,20 +178,20 @@ estar lo más cerca posible de los paneles interiores del chasis para maximizar 
 //fuente https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2018/04/30/15250848764095.jpg
 
 
-=== Materiales y especificaciones técnicas
+=== Materiales y especificaciones técnicas.
 Los materiales permitidos para los tubos que forman la jaula de seguridad son:
 -  aceros de alta resistencia o
 -  materiales homologados por la FIA, con secciones mínimas definidas.
-==== Dimensiones mínimas
+==== Dimensiones mínimas.
 Según la normativa de la FIA (Appendix J, artículo 285), todos los tubos de la jaula deben tener, como mínimo 50 x 2 mm o 45 x 2.5 mm \
 Estos valores aseguran una resistencia adecuada a impactos.
-=== Homologación FIA
+=== Homologación FIA.
 Para que un coche GT3 compita en categorías internacionales o nacionales, la jaula debe estar homologada por la FIA y reflejarse en los documentos de homologación o extensión de homologación del vehículo. \
 Esto significa que la jaula ha sido producida y certificada con números de serie y placa propios, y cumple con las reglas de seguridad exigidas por la FIA para competición.
 === Jaula en coches tipo GT3
-Jaula soldada (weld-in): es la opción más segura y común en GT3. Se suelda directamente al chasis, proporcionando máxima rigidez y protección.
-Enlaces de referencia usados
-Qué es la jaula de seguridad y su función básica
+Jaula soldada (_weld-in_): es la opción más segura y común en GT3. Se suelda directamente al chasis, proporcionando máxima rigidez y protección.
+//Enlaces de referencia usados
+//Qué es la jaula de seguridad y su función básica
 @sys-jaula01 @sys-jaula02 @sys-jaula03 @sys-jaula04
 /*-
 https://en.wikipedia.org/wiki/Roll
@@ -222,7 +223,7 @@ US/motorsport/us-media-guide/race-cars/porsche
 //fuente https://www.stuttcars.com/wp-content/uploads/2024/06/2015-Porsche-911-GT3-RS.jpg
 
 == Sistema de extinción.
-Hemos elegido como sistema de extinción el de la marca NOVEC @sys-antiincencio05. Es uno homologado por la FIA. @sys-antiincencio03 @sys-antiincencio04\
+Hemos elegido como sistema de extinción el de la marca NOVEC @sys-antiincencio05. Es uno de los modelos homologados por la FIA. @sys-antiincencio03 @sys-antiincencio04\
 El sistema de extinción NOVEC 1230 es una solución frente a incendios
 con agente limpio que usa el líquido químico llamado Novec 1230.\
 A temperatura ambiente es un líquido, pero cuando se libera lo hace en

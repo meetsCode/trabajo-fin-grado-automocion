@@ -230,13 +230,15 @@ En este trabajo también planearemos una estrategia para tener un buen desempeñ
  
 
 == Características mecánicas del vehículo seleccionado
-
+/*
 El Porsche 911 GT3 es un vehículo deportivo coupé de dos puertas, fabricado por el constructor alemán Porsche AG desde 1999 hasta la actualidad. Se trata de una de las versiones más emblemáticas y orientadas a la competición dentro de la gama 911. Este modelo toma como base el Porsche 911 Carrera, aunque incorpora modificaciones mucho más radicales en términos de prestaciones, chasis, aerodinámica y materiales, con un claro enfoque hacia el uso en circuito.
 
 
-El modelo se distingue por el uso intensivo de materiales ligeros, como la fibra de carbono y el aluminio, empleados en elementos de la carrocería y del interior con el objetivo de reducir peso y mejorar el rendimiento dinámico. Asimismo, cuenta con una aerodinámica completamente rediseñada, desarrollada en el túnel de viento de Porsche, que incrementa significativamente la carga aerodinámica y la estabilidad a altas velocidades.
+El modelo se distingue por el uso intensivo de materiales ligeros, como la fibra de carbono y el aluminio, empleados en elementos de la carrocería y del interior con el objetivo de reducir peso y mejorar el rendimiento dinámico. Asimismo, cuenta con una aerodinámica completamente rediseñada. Está desarrollada en el túnel de viento de Porsche. Este nuevo diseño incrementa significativamente la carga aerodinámica y la estabilidad a altas velocidades.
+ @detalles-curiosidades01,@detalles-curiosidades02, @detalles-curiosidades03, @detalles-curiosidades04
 
-En su generación más reciente (992), el presenta un diseño estético renovado con respecto a su predecesor. Entre los cambios más destacados se encuentran los paragolpes delantero y trasero, un alerón trasero de grandes dimensiones con soportes tipo “swan neck”, nuevos faros delanteros y pilotos traseros, todos ellos optimizados tanto a nivel visual como aerodinámico. Además, incorpora mejoras sustanciales en el chasis y la suspensión, heredadas directamente de la experiencia de Porsche en competición, especialmente del 911 GT3 Cup.
+
+En su generación más reciente (992), presenta un diseño estético renovado con respecto a su predecesor. Entre los cambios más destacados se encuentran los paragolpes delantero y trasero, un alerón trasero de grandes dimensiones con soportes tipo “swan neck”, nuevos faros delanteros y pilotos traseros, todos ellos optimizados tanto a nivel visual como aerodinámico. Además, incorpora mejoras sustanciales en el chasis y la suspensión, heredadas directamente de la experiencia de Porsche en competición, especialmente del 911 GT3 Cup.
 
 A nivel mecánico, el 911 GT3 equipa un motor atmosférico de seis cilindros opuestos (bóxer), una característica que Porsche ha mantenido como seña de identidad del modelo. Este propulsor ofrece una potencia superior a la de la generación anterior, junto con una respuesta más directa y una capacidad de alcanzar regímenes de giro muy elevados, lo que lo convierte en uno de los pocos deportivos modernos que aún prescinden de la sobrealimentación por turbo.
 
@@ -266,22 +268,20 @@ Fiel a la tradición de la marca alemana y a la arquitectura característica de 
 
 
 Además, cuenta con tracción trasera, lo que significa que la potencia se transmite exclusivamente a las ruedas del eje posterior. Esta configuración contribuye a una excelente motricidad y a un comportamiento dinámico muy preciso, especialmente en conducción deportiva.
-
+\ dh  dh  dh  dh  dh  dh  dh  dh  dh  dh  dh  dh  dh  dh  dh  dh \
 En cuanto a la transmisión, el Porsche 911 GT3 equipa una caja de cambios automática PDK de 7 velocidades con doble embrague, la cual es 17 kg más ligera que la de generaciones anteriores. Esta transmisión se caracteriza por contar con relaciones de cambio cortas, lo que contribuye a una respuesta más inmediata y a una mayor agilidad del vehículo. El accionamiento del cambio ofrece una sensación precisa, rápida y directa, especialmente en conducción deportiva.
 
 De manera alternativa, el modelo también se ofrece con una caja de cambios manual de 6 velocidades, pensada para los conductores más puristas. Ambas configuraciones incorporan un diferencial autoblocante electrónico y un sistema de distribución de par completamente variable, lo que mejora la tracción, la estabilidad y el control del vehículo en condiciones de alta exigencia, tanto en carretera como en circuito.
 
-
 === Detalles y curiosidades destacables del 911 GT3:
 
-- El nombre “GT3” hace referencia a la categoría GT3 de competición, para la cual el modelo fue concebido originalmente como base homologada.
-
-- Porsche desarrolla el 911 GT3 en el mismo departamento que sus vehículos de competición, el Porsche Motorsport.
-
-- A diferencia de otros deportivos modernos, el GT3 sigue ofreciendo cambio manual como opción, algo muy valorado por los puristas de la marca.
-- Gran parte de la tecnología del GT3 de calle procede directamente del 911 GT3 Cup, vehículo utilizado en campeonatos monomarca oficiales de Porsche en todo el mundo.
-
-- Según los ingenieros de la marca, el 911 GT3 está diseñado para ser apto para circular por carretera, pero con un rendimiento capaz de competir en circuito sin necesidad de modificaciones importantes
+*/
+El nombre “GT3” hace referencia a la categoría GT3 de competición, para la cual el modelo fue concebido originalmente como base homologada.
+\
+Porsche desarrolla el 911 GT3 en el mismo departamento que sus vehículos de competición, el Porsche Motorsport.
+A diferencia de otros deportivos modernos, el GT3 sigue ofreciendo cambio manual como opción, algo muy valorado por los puristas de la marca.
+\ Gran parte de la tecnología del GT3 de calle procede directamente del 911 GT3 Cup, vehículo utilizado en campeonatos monomarca oficiales de Porsche en todo el mundo. 
+Según los ingenieros de la marca, el 911 GT3 está diseñado para ser apto para circular por carretera, pero con un rendimiento *capaz de competir en circuito sin necesidad de modificaciones importantes*.
 
 #align(center)[
   #figure(
@@ -291,7 +291,7 @@ De manera alternativa, el modelo también se ofrece con una caja de cambios manu
 ]
 // https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2018/04/30/15250848415627.jpgk
 
-Este ultimo detalle refuerza nuestra elección ya que básicamente el 911 GT3 es un modelo nacido para competir y que lo hace más "barato" preparar para competir en la categoría lo cual nos beneficia porque evitamos altos costes a la hora de preparar un vehículo.
+Este último detalle refuerza nuestra elección ya que básicamente el 911 GT3 es un modelo nacido para competir. Esto lo hace más "barato" de preparar para la competición, lo cual nos beneficia ya que evitamos altos costes a la hora de preparar el vehículo.
 
 
 #include "caracteristicasvehiculo.typ"

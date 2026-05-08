@@ -18,7 +18,7 @@ Las normas de competición están contenidos en 3 documentos:
 - Anexo 1 - Publicidad Obrigatoria_PSCI_2025_V0_approved_RFEDA.pdf @doc-reglamento-anexo1-competicion-porsche-iberica
 - Anexo 2 - Penalizaciones Penalizações_PSCI_2025_17.08.2025_appoved_RFEDA.pdf @doc-reglamento-anexo2-competicion-porsche-iberica
 
-Un gran resumen de dicho reglamento, concentrándonos en nuestra categoría, la 992:
+A continuación hacemos un gran resumen de dicho reglamento, concentrándonos en nuestra categoría, la 992:
 
 === Art. 1. Organización. Comité Organizador.
 A Riscos & Trajetorias, Lda en adelante denominada P21 Motorsport, con la aprobación de la Real Federación Española de Automovilismo (RFEDA) y a través de un permiso especial de la Dr. Ing. h.c. F. Porsche Aktiengesellschaft organiza la Porsche Sprint Challenge Ibérica (PSCI) para la temporada 2025.
@@ -33,11 +33,12 @@ No hay número mínimo de participantes para cada categoría como sí hubo otros
 Para cada categoría 1 y 2 hay trofeo separado para los pilotos PRO AM y otro trofeo para los GD y un tercero para los pilotos de la categoría AM. A su vez hay los mismos trofeos para la categoría femenina.
 Por último para las tres categorías hay una copa para equipos.
 
-=== Art. 2. Reglamento
+=== Art. 2. Reglamento.
 Se aplicará por encima de cualquier otra regla el Código Deportivo Internacional (CDI)
 
 La página web de la PSCI www.porschesprintchallengeiberica.com y su app Sportity se considera tablón de anuncios oficial.
-Art 3 Condiciones Generales
+
+=== Art 3 Condiciones Generales.
 Si un concursante no puede estar presente se debe asignar su representante por escrito.
 
 Los concursantes se responsabilizan de cumplir todas las normas técnicas y de competición y sufrir las sanciones, en su caso, recogidas en el Anexo 1.
@@ -55,26 +56,26 @@ Todos se comportarán en beneficio de la seguridad y cooperarán para reducir ri
 Usaran los recursos de forma sostenible.
 Señalarán a los que no respeten la buena conducta.
 Cooperarán para mejorar cada año esta competición.
-Respetar las leyes y costumbres locales.
+Deben respetar las leyes y costumbres locales.
 Si no respetan las normas de buena conducta o el reglamento pueden ser suspendidos o descalificados.
 
-=== Art. 5. Licencias
+=== Art. 5. Licencias.
 El PSCI es de carácter nacional pero pueden participar pilotos de cualquier nacionalidad provistos de licencia nacional o internacional con validez para el año en curso. Ver el artículo para mas detalles del tipo de licencias.
 La edad mínima es de 16 años cumplidos con alguna excepción. Ver el artículo para mas detalles.
 Se admiten pilotos invitados y aquellos que compiten fuera del país emisor de la licencia.
 No está permitida la participación de Equipos Oficiales.
 Se realizará controles de las licencias al principio de la primera prueba y en el caso que lo pidiera la organización.
-Todos los participantes del equipo, que desempeñen funciones en Pit Lane, boxes o Paddock deben tener licencia deportiva correspondiente.
+Todos los participantes del equipo, que desempeñen funciones en _Pit Lane_, _boxes_ o _Paddock_ deben tener licencia deportiva correspondiente.
 
-=== Art. 6. Vehículos
+=== Art. 6. Vehículos.
 Un piloto un vehículo. No se admiten vehículos de reserva.
 Sólo se admiten los vehículos descritos en Art.1
 Un vehículo no puede ser inscrito en otra competición que se celebre el mismo fin de semana. Si está en otra competición debe dejarlo por escrito.
 El número de vehículos a competir tiene un máximo. Los demás quedarán en lista de espera.
-Hay tres categorías (ya visto)
+Hay tres categorías.\
 Se podrá inscribir un vehículo experimental orientado a probar componentes que puedan ser incluidos posteriormente en esa serie. Debe llevar el número 00.
 
-== Art. 7. Inscripciones
+=== Art. 7. Inscripciones.
 Hasta las 18:00 del día 28 de febrero de 2025
 La inscripción no se considera válida hasta que sea aprobada oficialmente por el comité organizador.
 El pago de la matrícula se hará como más tardar siete días después.
@@ -83,13 +84,13 @@ Un vehículo 900€+IVA
 Estas cuotas incluyen una sesión de test en el circuito de Estoril.
 Si el equipo al final no participa en la competición no se devuelve el dinero.
 Si un equipo no participa en un evento tendrá una multa de 2.000€
-Antes de cada evento los concursantes/pilotos deben rellenar y entregar el boletín que recibirán días antes. Siempre 15 días antes del evento.
+Antes de cada evento los concursantes/pilotos deben rellenar y entregar el boletín que recibirán siempre 15 días antes del evento.
 Hay una cuota de inscripción en cada prueba.
-Cat, 1 y 2 1.800€+IVA con 1 piloto.
-Se entregarán 4 pases PitLane por equipo y 4 pases paddock también por equipo.
-Por prueba se recibe 1 parking Paddock y 1 parking de pilotos.
+Cat, 1 y 2 1.800€+IVA con 1 piloto.\
+Se entregarán 4 pases _PitLane_ por equipo y 4 pases _paddock_ también por equipo.
+Por prueba se recibe 1 parking _Paddock_ y 1 parking de pilotos.\
 Si se pierde alguno se pagará 50€+IVA por pase.
-Se pueden solicitar extra para invitados.
+Se pueden solicitar extra para invitados.\
 Si se cambia al piloto hay que avisar a la organización.
 
 === Art. 8. Constitución.

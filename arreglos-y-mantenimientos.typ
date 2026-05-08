@@ -4,7 +4,7 @@
 
 = Arreglos y mantenimientos.
 == Introducción.
-En este apartado trataremos todos las partes o piezas o sistemas que debamos de añadir, modificar o cambiar al coche.
+En este apartado trataremos todos las partes, piezas o sistemas que debamos de añadir, modificar o cambiar al coche.
 Algunos de estos sistemas son obligatorios por la organizadora de la carrera mientras que otros son voluntarios e incumben a la seguridad o comodidad para el conductor.
 
 
