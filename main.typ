@@ -189,3 +189,18 @@
 #pagebreak()
 
 #include "anexo-reglamento2025-es.typ"
+
+#pagebreak()
+\
+\
+\
+\
+\
+\
+#align(center)[
+  #figure(
+    image("documentos-fuente/photo_2026-05-10 17.43.14.jpeg", width: 80%),
+    caption: [Promoción 2024/2026]
+   ) // <img-sys-bebida01>
+]
+//https://www.manthey-racing.com/endurance-lightweight-drinking-system

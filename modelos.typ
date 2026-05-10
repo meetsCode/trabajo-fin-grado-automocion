@@ -197,15 +197,15 @@ El Audi R8 V10 Performance, uno de los iconos de la marca de los cuatro aros, re
 Bajo el capó se encuentra el motor V10 atmosférico de 5.2 litros FSI, heredado directamente de la experiencia de Audi en la competición de GT y Le Mans. Este propulsor genera 620 caballos y 580 Nm de par que va hacia las cuatro ruedas ofreciendo una aceleración lineal y un sonido característico, rugiente y envolvente, que recuerda a los autos de pista de Audi.
 
 
-=== Decisión
-Tras analizar los distintos modelos disponibles, hemos concluido que el vehículo más adecuado para nuestro proyecto es el Porsche 911 GT3, concretamente un modelo reciente perteneciente a la generación 992.
+== Decisión de vehículo.
+Tras analizar los distintos modelos disponibles, hemos concluido que el vehículo más adecuado para nuestro proyecto es el Porsche 911 GT3, concretamente un modelo reciente perteneciente a la generación 992.\
 La elección se fundamenta principalmente en que se trata de un modelo emblemático dentro de la categoría GT3, con una amplia cantidad de documentación técnica y datos disponibles. \
 Asimismo, existen competiciones en España exclusivas de este vehículo, como la Porsche GT3 Cup o Copa Porsche GT3, lo que nos permitirá aprovechar la experiencia acumulada por otros equipos profesionales y aumentar las probabilidades de éxito del proyecto.
 Además, el Porsche 911 GT3 cuenta con una gran disponibilidad de piezas en el mercado automovilístico, lo que facilita el mantenimiento y la optimización del vehículo. \
 Su motor compacto, su bajo peso y un centro de gravedad reducido garantizan una excelente estabilidad en el paso por curva y una buena aceleración. Por otro lado, su motor, aunque de cilindrada contenida pero altamente potente, nos permitirá asegurar un buen rendimiento en rectas y facilitar los adelantamientos.\
 En definitiva un vehículo con el que podemos aprender, experimentar, divertirnos y asequible.
 
-=== Adquisición 
+== Adquisición 
 El coste del vehículo seleccionado asciende a 286.000 €, correspondiente al modelo base del Porsche 911 GT3 del año 2025, sin incluir ningún tipo de equipamiento adicional. Esta información ha sido obtenida directamente del Centro Porsche Murcia, ubicado en la Carretera de Madrid, km 384, 30100 Espinardo (Murcia). \
 En cuanto a los neumáticos, estos deberán ser suministrados por el proveedor oficial de la competición en la que se participe. Más adelante se detalla que la marca designada por los organizadores es Michelin. El modelo específico de neumático variará en función de las condiciones climáticas y del estado de la pista, y se comercializa bajo la gama “Pilot Sport”, la cual se divide en diferentes versiones adaptadas a cada situación. 
 

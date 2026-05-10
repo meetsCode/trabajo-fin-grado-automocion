@@ -29,7 +29,6 @@ u otros más generales como el campeonato para Asia -el _51gt3_ @oficial-51gt3 -
 Tras estudiar las distintas competiciones *hemos elegido la "Sprint Challenge Iberica"* @competicion-porsche-iberica.
 La tres razones para su elección son en primer lugar por la proximidad, en segunda razón por la documentación y por último porque es una competición monomodelo.\
 Es fácil de entender que para unos novatos como nosotros competir fuera de casa complica innecesariamente la logística y encarece los costes. Debemos aprender mucho y afianzarnos como equipo antes de salir a competir fuera. Esta competición sólo se corre en circuitos de España y Portugal y eso lo facilita muchas cosas.\
-Por otra parte participar en una competición donde sólo hay vehículos como el tuyo te permite mejorar en las habilidades del piloto pero sobre todo permite aprender de los veteranos de otros equipos, en trucos, detalles específicos y mejoras del modelo que correremos.\
 
 //Los premios de la competición escogida no es público pero sospechamos que no son de tipo económico.
 
@@ -43,8 +42,9 @@ Por otra parte participar en una competición donde sólo hay vehículos como el
 // fuente https://motorsport.org.au/wpblob0fe832abcb/wp-content/uploads/images/default-source/2023/may/7ff5e30a-60e9-5835-5c7a-bef07c30f023.jpg?x54371
 
 
+Por otra parte participar en una competición donde sólo hay vehículos como el tuyo te permite mejorar en las habilidades del piloto pero sobre todo permite aprender de los veteranos de otros equipos, en trucos, detalles específicos y mejoras del modelo que correremos.\
 
-
+El coste de esta participación asciende a 3.484,80€ y por cada carrera hay que pagar 2.178,00€
 
 
 

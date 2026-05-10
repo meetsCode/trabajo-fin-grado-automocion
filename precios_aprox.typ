@@ -15,19 +15,20 @@ Aproximadamente: 742 - 757 €
 \
 //Sistema de comunicación para pilotos de carreras PELTOR y BELL
 
-=== Sistema de aire acondicionado habitáculo.
-Modelo Nsx Gt3 Evo22 Brochure 20. Aproximadamente 12.800€ 
-página 13
-ENLACE:
-21
-https://es.scribd.com/document/608237086/Nsx-Gt3-Evo22-Brochure-20
-\
+=== Sistema de aire acondicionado del habitáculo.
+//Modelo Nsx Gt3 Evo22 Brochure 20. 
+//Auto Rochet. Aproximadamente 12.800€ 
+// página 13
+//ENLACE:
+//21
+//https://es.scribd.com/document/608237086/Nsx-Gt3-Evo22-Brochure-20
+Viene incorporado de serie.
 
 === Sistema de jaula.
 Marca roll cages. Precio aproximado 1.600€ @sys-jaula10
 //https://rollcages.eu/996-gt3/358-porsche-996-gt3-roll-cage-t45.html
 
-\
+
 === Sistema de extinción.
 El sistema de la marca NOVEC
 //OMP Sistema de Extinción de Aluminio Eléctrico aprox. 614 EUR
